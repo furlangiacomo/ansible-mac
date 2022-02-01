@@ -1,0 +1,9 @@
+---
+- name: Mac setup
+  hosts: localhost
+
+  tasks:
+    - name: check if present
+      file:
+        path: /Users/giacomofurlan/Documents/repo/namegenerator.sh
+        state: present
