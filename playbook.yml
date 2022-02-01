@@ -7,3 +7,6 @@
       file:
         path: /Users/giacomofurlan/Documents/repo/namegenerator.sh
         state: present
+    
+    - name: install brew
+      command: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
