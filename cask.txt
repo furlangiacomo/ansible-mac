@@ -1,0 +1,3956 @@
+
+==> Casks
+regexhibit: RegExhibit
+portfolioperformance: Portfolio Performance
+hydrogen: Hydrogen
+imageoptim: ImageOptim
+tropy: Tropy
+mqttx: MQTTX
+finisher-voodoo: Finisher VOODOO
+jitouch: jitouch
+kugoumusic: Kugou Music
+zecwallet-lite: Zecwallet Lite
+google-featured-photos: Google Featured Photos
+posterazor: PosteRazor
+macrorecorder: Macro Recorder
+ibm-aspera-connect: IBM Aspera Connect
+chronos: Chronos Timetracker
+retro-virtual-machine: Retro Virtual Machine
+pppc-utility: PPPC Utility, Privacy Preferences Policy Control Utility
+sentinel: Sentinel
+xtorrent: Xtorrent
+rocket: Rocket
+smooze: Smooze
+nova: Panic Nova
+jenkins-menu: Jenkins Menu
+jt-bridge: JT-Bridge
+gephi: Gephi
+base: Menial Base
+lbry: LBRY Desktop
+bootstrap-studio: Bootstrap Studio
+playmemories-home: PlayMemories Home
+medibangpaintpro: MediBang Paint Pro
+rstudio: RStudio
+figma: Figma
+mjolnir: Mjolnir
+mycrypto: MyCrypto
+marvin: Amazing Marvin
+visual-paradigm-ce: Visual Paradigm Community Edition
+jetbrains-toolbox: JetBrains Toolbox
+openrefine: OpenRefine
+find-any-file: Find Any File
+trash-it: Trash It!
+fantastical: Fantastical
+launchy: Launchy
+sdm: sdm
+warsow: Warsow
+integrity: Integrity
+graphql-playground: GraphQL Playground
+fontplop: Fontplop
+makehuman: MakeHuman
+texmaker: Texmaker
+kkbox: KKBOX
+katana: Katana
+decrediton: Decrediton
+editaro: Editaro
+adoptopenjdk: AdoptOpenJDK Java Development Kit
+netspot: NetSpot
+zeitgeist: Zeitgeist
+pop: Pop
+crunch: Crunch
+fsnotes: FSNotes
+tn3270-x: tn3270 for the Macintosh
+izotope-product-portal: Izotope product portal
+macdroid: MacDroid
+thingsmacsandboxhelper: Things Helper
+coverload: CoverLoad
+porting-kit: Porting Kit
+mplab-xc8: MPLab XC8 Compiler
+bitwarden: Bitwarden
+hazeover: HazeOver
+kodelife: KodeLife
+scihubeva: SciHubEVA
+lockdown: Lockdown
+winx-hd-video-converter: Winx HD Video Converter
+gpg-suite-pinentry: GPG Suite Pinentry
+plistedit-pro: PlistEdit Pro
+moscow-ml: Moscow ML
+typeit4me: TypeIt4Me
+criptext: Criptext
+openmsx: openMSX
+igetter: iGetter
+qingg: QinggIM, 清歌输入法
+jtool: jtool
+nteract: nteract
+bitmessage: Bitmessage
+orka: Orka CLI
+alternote: Alternote
+bisq: Bisq
+flacon: Flacon
+soundboosterlite: FroYoSoft Sound Booster Lite
+tribler: Tribler
+hp-eprint: HP ePrint
+iconizer: Iconizer
+meetingbar: MeetingBar
+folx: Folx
+vapor: VAPOR
+maczip: MacZip
+snwe: snwe
+slack: Slack
+freemind: FreeMind
+grisbi: Grisbi
+nodeclipse: Nodeclipse
+qdesktop: Qdesktop
+pomello: Pomello
+exodus: Exodus
+timemachineeditor: TimeMachineEditor
+bingpaper: BingPaper
+obs-websocket: obs-websocket
+ricochet-refresh: Ricochet Refresh
+softube-central: Softube Central
+bluesnooze: Bluesnooze
+studiolinkstandalone: Studio Link Standalone
+qqmusic: QQ音乐
+microsoft-word: Microsoft Word
+gdlauncher: GDLauncher
+tiny-player: Tiny Player for Mac
+robo-3t: Robo 3T (formerly Robomongo)
+btcpayserver-vault: BTCPayServer Vault
+isolator: Isolator
+entropy: Entropy
+fishing-funds: Fishing Funds
+zandronum: Zandronum
+james: James
+clockify: Clockify
+textadept: Textadept
+apparency: Apparency
+sioyek: Sioyek
+simpholders: SimPholders
+clicker-for-youtube: Clicker for YouTube
+shapr3d: Shapr3D
+sqlight: SQLight
+pd-runner: PD Runner
+qlswift: QLSwift
+hwsensors: HWSensors
+codekit: CodeKit
+logmein-client: LogMeIn Client
+matterhorn: Matterhorn
+pycharm-edu: Jetbrains PyCharm Educational Edition, PyCharm Edu
+wifi-explorer-pro: WiFi Explorer Pro
+polymail: Polymail
+touchosc-editor: TouchOSC Editor
+santa: Santa
+slic3r: Slic3r
+mkvtools: MKVtools
+notable: Notable
+ppsspp: PPSSPP
+buttercup: Buttercup
+kube-cluster: Kube-Cluster
+slicer: 3D Slicer
+cleanshot: CleanShot
+qt3dstudio: Qt 3D Studio
+spideroakone: SpiderOak One Backup
+giteye: CollabNet GitEye
+fuse: Fuse Studio, Fuse Open, Fuse Fusetools
+droidid: DroidID
+proximity: Proximity
+macdependency: MacDependency
+zxpinstaller: ZXPInstaller
+bee: Bee
+bonitastudiocommunity: Bonita Studio Community Edition
+happygrep: happygrep
+ledger-live: Ledger Live
+itsycal: Itsycal
+private-eye: Private Eye
+qcad: QCAD
+restream-chat: Restream Chat
+xscope: xScope
+ludwig: ludwig
+silnite: silnite
+chia: Chia Blockchain
+the-watcher: The Watcher
+electron-api-demos: Electron API Demos
+mirrordisplays: Mirror Displays
+vlc-webplugin: VLC for OS X web plugin
+maczip4win: MacZip4Win
+sqlpro-for-mssql: SQLPro for MSSQL
+shutter-encoder: Shutter Encoder
+twitch: Twitch
+remoteviewer: Remote Viewer
+sketch: Sketch
+monterey-cache-cleaner: Monterey Cache Cleaner, MCC
+liclipse: LiClipse
+navicat-for-oracle: Navicat for Oracle
+tongbu: Tongbu
+workplace-chat: Facebook Workplace Chat
+dcp-o-matic-player: DCP-o-matic Player
+pastebot: Pastebot
+universal-gcode-platform: Universal G-code Sender (Platform version)
+diskwave: DiskWave
+volt: Volt
+dotnet: .Net Runtime
+valentina-studio: Valentina Studio
+cold-turkey-blocker: Cold Turkey
+obs-virtualcam: OBS Virtual Camera
+kext-updater: Kext Updater
+openscad: OpenSCAD
+trinity: IOTA Trinity Wallet
+curiosity: Curiosity
+tetrio: TETR.IO
+atom: Github Atom
+v2rayu: V2rayU
+coconutid: coconutID
+elmedia-player: Elmedia Player
+aegisub: Aegisub
+optimal-layout: Optimal Layout
+odbc-manager: ODBC Manager
+hazel: Hazel
+quail: Quail
+cinch: Cinch
+softorino-youtube-converter: Softorino YouTube Converter
+aurora-hdr: Aurora HDR
+steam: Steam
+goldenpassport: GoldenPassport
+mechvibes: Mechvibes
+selfcontrol: SelfControl
+sleipnir: Sleipnir
+superhuman: Superhuman
+seaglass: Seaglass
+balsamiq-wireframes: Balsamiq Wireframes
+usage: Usage
+fabfilter-saturn: FabFilter Saturn
+paintbrush: Paintbrush
+skyfonts: SkyFonts
+opensc: OpenSC
+wxcrafter: wxCrafter
+provisioning: Provisioning
+love: LÖVE
+splice: Splice
+soundsource: SoundSource
+smartsvn: SmartSVN
+sketchup: SketchUp, SketchUp Make
+autumn: Autumn
+compositor: Compositor
+awareness: Awareness
+emmetapp: emmetapp
+cisdem-data-recovery: Cisdem Data Recovery
+reamp: re:AMP
+advancedrestclient: Advanced REST Client
+gopanda: GoPanda
+sencha: Sencha Cmd
+brewservicesmenubar: Brew Services Menubar
+jitsi: Jitsi
+betaflight-configurator: Betaflight-Configurator
+eclipse-javascript: Eclipse IDE for JavaScript and Web Developers
+tla-plus-toolbox: TLA+ Toolbox
+gretl: gretl
+data-rescue: Data Rescue 6
+wewechat: weweChat
+multipatch: MultiPatch
+bankid: BankID
+kmplayer: KMPlayer
+ogdesign-eagle: Eagle
+lrtimelapse: LRTimelapse
+monero-wallet: Monero Wallet
+ukelele: Ukelele
+osbuddy: OSBuddy
+honer: Honer
+packetsender: Packet Sender
+mockuuups-studio: Mockuuups Studio
+mana-security: Mana Security
+pym-player: PYM Player
+antconc: AntConc
+focus: Focus
+reactotron: Reactotron
+coccinellida: Coccinellida
+soundflowerbed: SoundflowerBed
+texmacs: GNU TeXmacs
+ibackup-viewer: iBackup Viewer
+zazu: Zazu
+diashapes: Dia
+snowflake-snowsql: SnowSQL
+mtmr: My TouchBar. My rules
+sensiblesidebuttons: Sensible Side Buttons
+kmbmpdc: kmbmpdc, kawaii menu bar music player daemon controller
+gisto: Gisto
+murus: Murus Firewall
+ganttproject: GanttProject
+tableau-reader: Tableau Reader
+gyazo: Nota Gyazo GIF
+psi-plus: Psi+
+bluejeans: BlueJeans
+pandora: Pandora
+kui: Kui
+colorpicker-propicker: Pro Picker
+twonkyserver: Twonky Server
+leanote: Leanote
+flipper: Facebook Flipper
+dvdstyler: DVDStyler
+react-studio: ReactStudio
+igv: Integrative Genomics Viewer (IGV)
+actual: Actual
+webrecorder-player: Webrecorder Player
+fluid: Fluid
+mosaic: Mosaic
+menucalendarclock-ical: MenuCalendarClock
+snapmotion: SnapMotion
+sdformatter: SD Formatter
+tiddly: TiddlyWiki
+livetail: Sumologic livetail CLI
+brave-browser: Brave
+postgrespreferencepane: PostgresPrefs
+wrike: Wrike
+macsvg: macSVG
+gaphor: Gaphor
+tic80: TIC-80
+foxit-pdf-editor: Foxit PDF Editor
+meta: Meta
+privadovpn: PrivadoVPN
+displays: Displays
+dropbox-passwords: Dropbox Passwords
+dungeon-crawl-stone-soup-console: Dungeon Crawl Stone Soup
+bitbar: BitBar
+hammerspoon: Hammerspoon
+popclip: PopClip
+smplayer: SMPlayer
+mediaelch: MediaElch
+kapitainsky-rclone-browser: Rclone Browser
+drawio: draw.io Desktop
+idefrag: iDefrag
+workspaces: Workspaces
+serial-tools: Serial Tools
+countdown: Countdown Screensaver
+nimble-commander: Nimble Commander
+qqplayer: QQ影音
+pibar: PiBar
+there: There
+fldigi: fldigi
+instatus-out: Instatus Out
+adobe-dng-converter: Adobe DNG Converter
+skala-preview: Skala Preview
+workflowy: WorkFlowy
+next: Next Browser
+screens-connect: Screens Connect
+tradingview: TradingView Desktop
+red-eye: Red Eye
+jetbrains-space: JetBrains Space
+carbon-copy-cloner: Carbon Copy Cloner
+create-recovery-partition-installer: Create Recovery Partition Installer
+jcryptool: JCrypTool
+virtualc64: VirtualC64
+monal: Monal
+teamviewer: TeamViewer
+final-fantasy-xiv-online: Final Fantasy XIV
+frhelper: Frhelper, 法语助手
+lunar: Lunar
+jupyter-notebook-viewer: Jupyter Notebook Viewer
+wasabi-wallet: Wasabi Wallet
+powerphotos: PowerPhotos
+retinizer: Retinizer
+lincastor: LinCastor
+td-agent: td-agent
+mycloud: Swisscom myCloud Desktop
+jellyfin: Jellyfin
+keep-it: Keep It
+messenger-unofficial: Messenger
+xld: X Lossless Decoder, XLD
+marathon: Marathon
+guitar-pro: Guitar Pro
+lazarus: Lazarus
+itch: itch.io
+wey: Wey
+arduino: Arduino
+binance: Binance
+chirp: CHIRP
+soundflower: Soundflower
+sqleditor: SQLEditor
+mesasqlite: MesaSQLite
+openinterminal-lite: OpenInTerminal-Lite
+tag: Tag
+popo: NetEase POPO
+zy-player: ZY Player
+emby-server: Emby Server
+lab: Lab
+webpack-dashboard: Webpack Dashboard
+sigil: Sigil
+thedesk: TheDesk
+multipass: Multipass
+ccmenu: CCMenu
+equinox: equinox
+sweet-home3d: Sweet Home 3D
+mellowplayer: MellowPlayer
+rowanj-gitx: GitX-dev
+physics-101: Physics 101
+lockrattler: Lock Rattler
+redeclipse: Red Eclipse
+parallels-client: Parallels Client
+izip: iZip
+aws-vault: aws-vault
+dataspell: DataSpell
+appcode: AppCode
+astropad-studio: Astropad Studio
+flux: f.lux
+jubler: Jubler
+tickeys: Tickeys
+hugin: Hugin
+bino: Bino
+yacreader: YACReader
+blackhole-16ch: BlackHole 16ch
+dosbox-x: DOSBox-X
+elan: ELAN
+texworks: TeXworks
+jamulus: Jamulus
+remote-desktop-manager: Remote Desktop Manager
+box-notes: Box Notes
+qxmledit: QXmlEdit
+qladdict: QLAddict
+profilecreator: ProfileCreator
+macwinzipper: MacWinZipper
+remote-buddy: Remote Buddy
+mongodb-compass: MongoDB Compass
+cisco-jabber: Cisco Jabber
+podolski: Podolski
+digital: Digital
+developerexcuses: Developer Excuses Screensaver
+parsehub: ParseHub
+teamviewer-quicksupport: TeamViewer QuickSupport, TeamViewer QS
+gitee: Gitee
+sonarr: Sonarr
+opensong: OpenSong
+muruslogsvisualizer: Murus Logs Visualizer
+app-cleaner: Nektony App Cleaner & Uninstaller
+teeworlds: Teeworlds
+fitbit-os-simulator: Fitbit OS Simulator
+omegat: OmegaT
+openineditor-lite: OpenInEditor-Lite
+cinder: Cinder
+ganache: Ganache
+pocket-casts: Pocket Casts
+vitals: Vitals
+statusfy: Statusfy
+power-manager: Power Manager
+noun-project: Noun Project
+feed-the-beast: Feed the Beast
+ultimaker-cura: Ultimaker Cura, Cura
+printopia: Printopia
+flowsync: Polar FlowSync Software
+opera-mobile-emulator: Opera Mobile Classic Emulator
+tigervpn: tigerVPN
+sourcenote: SourceNote
+splitshow: SplitShow
+remarkable: Remarkable
+autodmg: AutoDMG
+google-chat: Chat
+autofirma: AutoFirma
+flume: Flume
+kmeet: kMeet
+sky-ticket: Sky Ticket Player
+gray: Gray
+touchdesigner: Derivative TouchDesigner
+thorium: Thorium Reader
+podcastmenu: PodcastMenu
+honto: honto view app, hontoビューアアプリ
+electric-sheep: Electric Sheep
+tentacle-sync-studio: Tentacle Sync Studio
+dyn-updater: Dyn Updater
+raycast: Raycast
+115browser: 115Browser, 115浏览器
+nota: Nota
+waterfox-classic: Waterfox Classic
+ql-ansilove: QLAnsilove
+wintertime: Wintertime
+kdocs: 金山文档
+emclient: eM Client
+nomachine-enterprise-client: NoMachine Enterprise Client
+spacelauncher: SpaceLauncher
+downie: Downie
+sirimote: SiriMote
+quickjson: QuickJSON
+basictex: BasicTeX
+cozy-drive: Cozy Drive
+sizzy: Sizzy
+ccleaner: Piriform CCleaner
+micro-sniff: Micro Sniff
+activedock: ActiveDock
+launchcontrol: LaunchControl
+paw: Paw
+amorphousdiskmark: AmorphousDiskMark
+panoply: Panoply netCDF, HDF and GRIB Data Viewer
+cellprofiler: CellProfiler
+penc: Penc
+box-sync: Box Sync
+depthmapx: depthmapX
+marvel: Marvel
+todotxt: TodoTxtMac
+amazon-chime: Amazon Chime
+joshjon-nocturnal: Nocturnal
+knime: KNIME Analytics Platform
+ghost-browser: Ghost Browser
+stubbymanager: StubbyManager
+go-agent: Go Agent, GoCD Agent
+sim-genie: Sim Genie
+deadbolt: Deadbolt
+eiskaltdcpp: EiskaltDC++
+qlmarkdown: sbarex-qlmarkdown
+massreplaceit: MassReplaceIt
+privileges: Privileges
+time-sink: Time Sink
+kubernetic: Kubernetic
+munkiadmin: MunkiAdmin
+camera-live: Camera Live
+minishift: Minishift
+tagspaces: TagSpaces
+steam-plus-plus: Steam++
+jitsi-meet: Jitsi Meet
+sparkle: Sparkle
+imdone: imdone
+glyphs: Glyphs
+gopass-ui: Gopass UI
+hstracker: Hearthstone Deck Tracker
+menu-bar-splitter: Menu Bar Splitter
+aware: Aware
+trackerzapper: trackerzapper
+aws-vpn-client: AWS Client VPN
+cinebench: Cinebench
+ipartition: iPartition
+wickrme: Wickr Me
+goodsync: GoodSync
+pitchperfect: PitchPerfect
+steveschow-gfxcardstatus: gfxCardStatus
+youku: Youku, 优酷
+kitty: kitty
+retroarch-metal: RetroArch
+table-tool: Table Tool
+libreelec-usb-sd-creator: LibreELEC USB-SD Creator
+dbkoda: dbKoda
+katrain: KaTrain
+moom: Moom
+zprint: zprint
+cheatsheet: CheatSheet
+fabfilter-pro-c: FabFilter Pro-C
+altair-graphql-client: Altair GraphQL Client
+pinegrow: Pinegrow
+amazon-music: Amazon Music
+surge-xt: Surge XT
+tg-pro: TG Pro
+clashx: ClashX
+back-in-time: Back-In-Time
+boost-note: Boostnote.Next
+deathtodsstore: DeathToDSStore
+yakyak: Yakyak
+leech: Leech
+openphone: OpenPhone
+github: GitHub Desktop
+air-video-server-hd: Air Video Server HD
+picgo: PicGo
+shortcat: Sproutcube Shortcat
+prusaslicer: PrusaSlicer
+skype-for-business: Skype for Business
+screenflick: Screenflick
+powerpanel: CyberPower PowerPanel Personal
+jandi: JANDI
+airtame: Airtame
+blu-ray-player: Macgo Mac Blu-ray Player
+send-anywhere: Send Anywhere
+praat: Praat
+universal-media-server: Universal Media Server
+omnidb: OmniDB
+ears: Ears
+dozer: Dozer
+haptickey: HapticKey
+amethyst: Amethyst
+plistedplus: PlistEDPlus
+contexts: Contexts
+istumbler: iStumbler
+lyx: LyX
+paraview: ParaView
+spaceid: SpaceId
+parse: Parse
+pixel-picker: Pixel Picker
+comictagger: ComicTagger
+vitalsigns: Vitalsigns
+starcraft: Starcraft
+biglybt: biglybt
+phpstorm: JetBrains PhpStorm
+clock-signal: Clock Signal, CLK
+wechatwork: WeChat Work, 企业微信
+betterzip: BetterZip
+pingplotter: PingPlotter
+dmm-player-for-chrome: DMM Player for Chrome
+front: Front
+dialpad: Dialpad
+mysides: mysides
+raspberry-pi-imager: Raspberry Pi Imager
+kext-utility: Kext Utility
+tresorit: Tresorit
+fxfactory: FxFactory
+bespoke: Bespoke Synth
+snipaste: Snipaste
+catch: Catch
+jupyter-notebook-ql: Jupyter Notebook Quick Look
+quickbooks: QuickBooks Desktop
+heimdall-suite: Heimdall Suite
+shotcut: Shotcut
+strongvpn: StrongVPN
+myphone: myPhoneDesktop
+kid3: Kid3
+ios-saver: iOS 8 Lockscreen for OSX
+screens: Screens
+processing: Processing
+chrome-devtools: Chrome DevTools
+frescobaldi: Frescobaldi
+cinc-workstation: Cinc Workstation
+tonido: Tonido
+flic: Flic
+cleanmymac-zh: CleanMyMac X Chinese
+ilspy: ILSpy
+qlab: QLab
+ueli: Ueli
+copytranslator: CopyTranslator
+soulver: Soulver
+flightgear: FlightGear
+forticlient-vpn: FortiClient VPN
+cloudflare-warp: Cloudflare WARP
+bricklink-studio: Studio
+blurred: Blurred
+boxofsnoo-fairmount: Fairmount
+sonic-pi: Sonic Pi
+handshaker: HandShaker
+arrsync: arRsync
+multibit-hd: MultiBit HD
+itau: Itau
+cardhop: Cardhop
+360safe: 360 Total Security
+avg-antivirus: AVG Antivirus for Mac
+funter: Funter
+vsdx-annotator: Nektony VSDX Annotator
+openttd: OpenTTD
+anybar: AnyBar
+blocs: Blocs
+obsidian: Obsidian
+inso: inso
+bzflag: BZFlag
+transmit: Transmit
+nightfall: Nightfall
+krisp: Krisp
+bob: Bob
+glyphfinder: Glyphfinder
+versions: Versions
+bitshares: BitShares
+clickup: ClickUp
+grafx: GrafX2
+luminance-hdr: Luminance HDR
+bestres: BestRes
+react-native-debugger: React Native Debugger
+geany: Geany
+pd: Pd
+wkhtmltopdf: wkhtmltopdf
+brightness-sync: Brightness Sync
+gulp: gulp-app
+mathpix-snipping-tool: Mathpix Snipping Tool
+fabfilter-pro-mb: FabFilter Pro-MB
+eclipse-installer: Eclipse Installer, Eclipse IDE installer
+reggy: Reggy
+otx: otx
+infra: infra
+maltego: Maltego
+ha-menu: HA Menu
+wavesurfer: WaveSurfer
+ivpn: IVPN
+macpass: MacPass
+phd2: PHD2
+dwarf-fortress: Dwarf Fortress
+eclipse-rcp: Eclipse for RCP and RAP Developers
+amitv87-pip: PiP
+splashtop-business: Splashtop Business
+kobo: Kobo
+seadrive: Seadrive
+augur: Augur
+launchrocket: LaunchRocket
+pitch: Pitch
+nudge: Nudge
+qobuz: Qobuz
+mightymike: Mighty Mike
+clamxav: ClamXAV
+schism-tracker: Schism Tracker
+surge: Surge
+better-window-manager: Better Window Manager
+jet: Codeship Jet
+pixelsnap: PixelSnap
+postbox: Postbox
+okta-advanced-server-access: Okta Advanced Server Access, ScaleFT
+logos: Logos
+qlc-plus: Q Light Controller+
+xctu: XCTU
+mactracker: Mactracker
+ntfstool: NTFSTool
+keyboardcleantool: KeyboardCleanTool
+imazing: iMazing
+oracle-jdk: Oracle Java Standard Edition Development Kit
+musictube: Musictube
+screenfocus: ScreenFocus
+mailmate: MailMate
+mblock: mBlock
+shimeike-formulatepro: FormulatePro
+remnote: RemNote
+kinza: Kinza
+visualvm: VisualVM
+notion: Notion
+kindavim: kindaVim
+usenapp: Usenapp
+markdown-service-tools: Markdown Service Tools
+zulu: Azul Zulu Java Standard Edition Development Kit
+inav-configurator: INAV Configurator
+yate: Yate
+trojanx: TrojanX
+virtualbox: Oracle VirtualBox
+iexplorer: iExplorer
+do-not-disturb: Do Not Disturb
+f-bar: F-Bar
+unity-ios-support-for-editor: Unity iOS Build Support
+mindforger: MindForger
+big-mean-folder-machine: Big Mean Folder Machine
+supermjograph: SuperMjograph
+beamer: Beamer
+4k-video-downloader: 4K Video Downloader
+dictcc-en-de-dictionary-plugin: dict.cc English-German dictionary plugin
+codeexpander: CodeExpander
+parallels-access: Parallels Access
+headset: Headset
+stringsfile: StringsFile QuickLook plugin
+flame: Flame
+dejalu: DejaLu
+chronicle: Chronicle
+lightproxy: LightProxy
+mipony: Mipony
+gitter: Gitter
+alt-c: Alt-C
+enclave: Enclave
+graphiql: GraphiQL App
+busycal: BusyCal
+remotix-agent: Remotix Agent
+wpsoffice: WPS Office
+stoplight-studio: Stoplight Studio
+zoom-outlook-plugin: Zoom.us Outlook Plugin
+githubpulse: GithubPulse
+lynkeos: Lynkeos
+datasette: Datasette
+colorpicker-skalacolor: Skala Color
+cantata: Cantata
+electron: Electron
+xlplayer: XLPlayer for Mac, 迅雷影音 for Mac
+visual-studio-code: Microsoft Visual Studio Code, VS Code
+smartgit: SmartGit
+diffmerge: DiffMerge
+ytmdesktop-youtube-music: YouTube Music Desktop App
+staruml: StarUML
+megacmd: MEGAcmd
+mailplane: Mailplane
+reikey: ReiKey
+tableplus: TablePlus
+artisan: Artisan
+mucommander: muCommander
+slidepilot: SlidePilot
+acousticbrainz-gui: AcousticBrainz
+commander-one: Commander One
+8x8-meet: 8x8 Meet
+oscilloscope: Oscilloscope
+knotes: Knotes
+all-in-one-messenger: All-in-One Messenger
+vyprvpn: VyprVPN
+jewelrybox: JewelryBox
+ableton-live-standard: Ableton Live Standard
+smart-converter-pro: Smart Converter Pro
+gog-galaxy: GOG Galaxy
+a-slower-speed-of-light: A Slower Speed of Light
+electrum: Electrum
+focus-booster: Focus Booster
+racket: Racket
+clicker-for-netflix: Clicker for Netflix
+kite: Kite
+preferencecleaner: PreferenceCleaner
+vallum: Vallum
+master-pdf-editor: Master PDF Editor
+cocoaspell: cocoAspell
+gcc-arm-embedded: GCC ARM Embedded
+qgis: QGIS
+audirvana: Audirvana
+foxmail: Foxmail
+objektiv: Objektiv
+eset-cyber-security-pro: ESET Cyber Security Pro
+koodo-reader: Koodo Reader
+sparkleshare: SparkleShare
+qdslrdashboard: qDslrDashboard
+a-better-finder-attributes: A Better Finder Attributes
+kotlin-native: Kotlin Native
+kitematic: Kitematic
+stems: Stems
+notebooks: Notebooks
+ipvanish-vpn: IPVanish
+microsoft-powerpoint: Microsoft PowerPoint
+persepolis-download-manager: Persepolis
+unetbootin: UNetbootin
+questrade-iq-edge: Questrade IQ Edge
+manageengine-mibbrowser: ManageEngine MibBrowser
+pixel-check: PiXel Check
+opensim: OpenSim
+tor-browser: Tor Browser
+yammer: Yammer
+synology-chat: Synology Chat
+nethackcocoa: NetHackCocoa
+dust3d: Dust3D
+box-tools: Box Tools
+keymanager: KeyManager
+lantern: Lantern
+sunloginclient: Sunlogin 11, 向日葵 11
+deepstream: deepstream
+hot: Hot
+recut: Recut
+bbc-iplayer-downloads: BBC iPlayer Downloads
+islide: iSlide
+kiwix: Kiwix
+endnote: EndNote
+maria: Maria
+peakhour: PeakHour
+pivy: pivy
+maccpuid: MacCPUID
+storyboarder: Wonder Unit Storyboarder
+lightworks: Lightworks
+wolfram-engine: Wolfram Engine
+taskexplorer: TaskExplorer
+adobe-air: Adobe AIR
+pluginval: pluginval
+nfov: nfov
+clocksaver: Clock.saver screensaver
+amadine: Amadine
+pushplaylabs-sidekick: Sidekick
+cog: Cog
+suitcase-fusion: Extensis Suitcase Fusion
+pyzo: Pyzo
+c0re100-qbittorrent: qBittorrent Enhanced Edition
+vb-cable: VB-CABLE Virtual Audio Device
+gpg-suite: GPG Suite
+brisk: Brisk
+sipgate-softphone: Sipgate Softphone
+julia: Julia
+mactex-no-gui: MacTeX
+spotify: Spotify
+mqttfx: MQTT.fx
+openboard: OpenBoard
+pg-commander: PG Commander
+jgrasp: jgrasp
+eurkey: EurKEY keyboard layout
+viscosity: Viscosity
+pock: Pock
+webtorrent: WebTorrent Desktop
+coqide: Coq
+maxon: Maxon App
+dbschema: DbSchema
+mockplus: Mockplus, 摩客
+battlescribe: BattleScribe
+xrg: XRG
+fontexplorer-x-pro: FontExplorer X Pro
+vidcutter: VidCutter
+mouse-locator: Mouse Locator
+simplistic: SimPLISTic, jlutil
+disk-arbitrator: Disk Arbitrator
+subtools: SUBtools
+pliim: Pliim
+fromscratch: FromScratch
+fabfilter-pro-g: FabFilter Pro-G
+marked: Marked
+photosrevive: PhotosRevive
+aldente: AlDente
+emacsclient: emacsclient
+candybar: CandyBar
+zoom-for-it-admins: Zoom for IT Admins
+vuescan: VueScan
+hp-prime: HP Prime
+notedup: NoteDup
+cleartext: Cleartext
+rambox: Rambox
+notunes: noTunes
+endless-sky: Endless Sky
+clone-hero: Clone Hero
+sound-siphon: SoundSiphon
+filemaker-pro: FileMaker Pro
+overdrive-media-console: OverDrive Media Console
+mnemosyne: Mnemosyne
+centered: Centered
+davmail: DavMail
+brisync: Brisync
+pester: Pester
+kieler: kieler
+code-notes: Code Notes
+pablodraw: PabloDraw
+geektool: GeekTool
+qtox: qTox
+eclipse-java: Eclipse IDE for Java Developers
+katalon-studio: Katalon Studio
+phoenix: Phoenix
+ff-works: ff·Works
+fabfilter-one: FabFilter One
+gpg-suite-no-mail: GPG Suite (without GPG Mail)
+plex-media-server: Plex Media Server
+xcodeclangformat: XcodeClangFormat
+transnomino: Transnomino
+synology-note-station-client: Synology Note Station Client
+deeper: Deeper
+old-school-runescape: Old School RuneScape
+stationtv-link: StationTV® Link
+scrivener: Scrivener
+freeyourmusic: FreeYourMusic
+terminology: terminology
+keystore-explorer: KeyStore Explorer
+syncovery: Syncovery
+brightness: Brightness
+little-navmap: Little Navmap
+alacritty: Alacritty
+sloth: Sloth
+easyfind: EasyFind
+nslogger: NSLogger
+epubmdimporter: EPUB Spotlight
+3dgenceslicer: 3DGence Slicer
+macvim: MacVim
+jpadilla-rabbitmq: RabbitMQ
+8bitdo-ultimate-software: 8BitDo Ultimate Software
+vale-server: Vale Server
+spitfire-audio: Spitfire Audio
+cleanapp: Synium Software CleanApp
+whoozle-android-file-transfer: Android File Transfer
+the-tagger: The Tagger
+vlc: VLC media player
+coconutbattery: coconutBattery
+dcv-viewer: NICE DCV Viewer
+oss-browser: oss-browser
+memory-clean-3: Memory Clean 3
+cloudup: Cloudup
+prezi-video: Prezi Video
+rowmote-helper: Rowmote Helper
+dosbox: DOSBox
+screaming-frog-seo-spider: Screaming Frog SEO Spider
+aether: Aether
+nocturn: Nocturn
+macpar-deluxe: MacPAR deLuxe
+zoc: ZOC
+happymac: HappyMac
+responsively: Responsively
+gearsystem: Gearsystem
+eclipse-php: Eclipse IDE for PHP Developers
+wonderfultools-screensaver: Wonderful Tools Screensaver
+ssh-config-editor: SSH Config Editor
+jupyterlab: JupyterLab App
+skype: Skype
+clion: CLion
+lynx: LYNX Whiteboard by Clevertouch
+caprine: Caprine
+inkscape: Inkscape
+icloud-control: iCloud Control
+klayout: KLayout
+magicplot: MagicPlot
+dbgate: DbGate
+dockview: dockview
+react-proto: React Proto
+aquaterm: AquaTerm
+swiftybeaver: SwiftyBeaver
+pokerth: PokerTH
+dremel-slicer: Dremel DigiLab 3D Slicer
+icons8: Icons8 App
+prudent: Prudent
+zoho-docs: Zoho Docs
+physicseditor: PhysicsEditor
+mubu: Mubu
+omnidisksweeper: OmniDiskSweeper
+texturepacker: TexturePacker
+middleclick: MiddleClick
+xnviewmp: XnViewMP
+notion-enhanced: Notion Enhanced
+tenable-nessus-agent: Tenable Nessus Agent
+accessmenubarapps: AccessMenuBarApps
+whatsize: WhatSize
+acorn: Acorn
+raiderio: RaiderIO Client
+google-cloud-sdk: Google Cloud SDK
+feem: Feem
+command-pad: Command Pad
+wowup: WowUp
+shadow: Shadow
+openboardview: OpenBoardView
+pokemon-trading-card-game-online: Pokemon Trading Card Game Online
+sidenotes: SideNotes
+moonlight: Moonlight
+tableau-prep: Tableau Prep, Tableau Prep Builder
+lazy: Lazy
+wormhole: Wormhole
+genymotion: Genymotion
+socket-io-tester: socket-io-tester.app
+mit-app-inventor: MIT App Inventor
+niftyman: Niftyman
+rrcc: RoboRock Control Center
+airdroid: AirDroid
+kap: Kap
+quassel-client: Quassel IRC
+profilemanager: Mozilla Profile Manager
+switchhosts: SwitchHosts
+vsd-viewer: Nektony VSD Viewer
+timestamp: Timestamp
+intune-company-portal: Company Portal
+thumbsup: ThumbsUp
+itk-snap: ITK-SNAP
+swinsian: Swinsian
+poi: poi
+keypad-layout: Keypad Layout
+p4v: Perforce Helix Visual Client, P4Merge, P4V
+origin: Origin
+utc-menu-clock: UTCMenuClock
+soda-player: Soda Player
+sejda-pdf: Sejda PDF Desktop
+polyphone: Polyphone
+seafile-client: Seafile Client
+linkliar: LinkLiar
+pencil2d: Pencil2D, Pencil2D Animation
+kextviewr: KextViewr
+my-budget: My Budget
+gpxsee: GPXSee
+appcleaner: FreeMacSoft AppCleaner
+itraffic: itraffic
+not-pacman: Not Pacman
+grads: Grid Analysis and Display System, GrADS
+airtool: Airtool
+mobster: Mobster
+ebmac: EBMac
+qsyncthingtray: QSyncthingTray
+bluegriffon: BlueGriffon
+transcribe: Transcribe!
+virtualhere: VirtualHere
+clonk: Clonk Rage
+discretescroll: DiscreteScroll
+osculator: Osculator
+deepgit: DeepGit
+shortcutdetective: ShortcutDetective
+nuclear: Nuclear
+amazon-workspaces: Amazon Workspaces
+unshaky: Unshaky
+fawkes: Fawkes
+powder-player: Powder Player
+fabfilter-pro-ds: FabFilter Pro-DS
+apk-icon-editor: APK Icon Editor
+bwana: Bwana
+karabiner-elements: Karabiner Elements
+onenote-importer-preview: OneNote Importer (Preview)
+sequel-ace: Sequel Ace
+1password-cli: 1Password CLI
+airdisplay: Air Display
+upm: Universal Password Manager
+stats: Stats
+itubedownloader: iTubeDownloader
+framer: Framer
+monodraw: Monodraw
+colorpicker-materialdesign: Material Design
+avtouchbar: AVTouchBar
+intellij-idea-ce: IntelliJ IDEA Community Edition, IntelliJ IDEA CE
+fabfilter-pro-l: FabFilter Pro-L
+sqlpro-studio: SQLPro Studio
+qlvideo: QuickLook Video
+bilibili: Bilibili
+macpilot: MacPilot
+vv: VV
+folding-at-home: Folding@home
+xonotic: Xonotic
+netbeans: NetBeans IDE
+keepassxc: KeePassXC
+licensed: Licensed
+rodeo: Rodeo
+retroactive: Retroactive
+mumble: Mumble
+enigma: Enigma
+multiscan-3b: MultiScan 3B
+folder-colorizer: Folder Colorizer
+scribus: Scribus
+araxis-merge: Araxis Merge
+swift: Swift XMPP Client
+voikkospellservice: VoikkoSpellService
+swiftbar: SwiftBar
+figtree: FigTree
+openin: OpenIn
+zerobranestudio: ZeroBrane Studio
+network-radar: Network Radar
+teambition: Teambition
+swish: Swish
+robofont: RoboFont
+fredm-fuse: Fuse for Mac OS X
+cmd-eikana: cmd-eikana, ⌘英かな
+ghidra: Ghidra
+xamarin-ios: Xamarin.iOS
+toinane-colorpicker: Colorpicker
+almighty: almighty
+wondershare-filmora: Wondershare Filmora
+syncterm: SyncTERM
+doxygen: Doxygen
+ivolume: iVolume
+pgadmin4: pgAdmin4
+jandi-statusbar: jandi
+gas-mask: Gas Mask
+au-lab: AU Lab
+ipsecuritas: IPSecuritas
+cevelop: Cevelop
+live-home-3d: Live Home 3D
+scapple: Scapple
+brain-workshop: Brain Workshop
+texts: Texts
+midiview: Midi View
+alva: Alva
+vuze: Vuze
+tweetbot: Tweetbot
+encryptr: SpiderOak Encryptr
+infoflow: Baidu Hi, 百度 Hi, 如流, infoflow
+evkey: EVKey
+timelane: Timelane
+wacom-inkspace: Wacom Inkspace
+garagebuy: GarageBuy
+cronnix: CronniX
+binary-ninja: Binary Ninja
+nitroshare: NitroShare
+qbserve: Qbserve
+warzone-2100: Warzone 2100
+videostream: Videostream
+openmw: OpenMW
+naver-whale: NAVER Whale
+go64: Go64
+windows95: Windows 95
+x-swiftformat: X-SwiftFormat
+pdfkey-pro: PDFKey Pro
+arkiwi: ArKiwi
+vesta: VESTA
+burn: Burn
+jaxx-liberty: Jaxx Blockchain Wallet
+puush: puush
+cctalk: CCtalk
+noisebuddy: NoiseBuddy
+kactus: Kactus
+flock: Flock
+realforce: REALFORCE for Mac
+fission: Fission
+raw-photo-processor: Raw Photo Processor
+simple-comic: Simple Comic
+noto: Noto
+timemator: Timemator
+script-debugger: Script Debugger
+audiogridder-server: AudioGridder Server
+igdm: IG:dm
+scatter: Scatter
+gtkwave: GTKWave
+caret: Caret
+devbook: Devbook
+product-hunt: Product Hunt
+qctools: QCTools
+fastclicker: FastClicker
+mimestream: Mimestream
+pretzel: Pretzel
+swiftformat-for-xcode: SwiftFormat for Xcode
+universal-battle: Universal Battle
+cloudmounter: Eltima CloudMounter
+wordpresscom: WordPress.com
+journey: Journey
+ringcentral-classic: RingCentral Classic
+pomotroid: Pomotroid
+moneydance: Moneydance
+datazenit: Datazenit
+ttscoff-mmd-quicklook: MMD-QuickLook
+secretive: Secretive
+tyme: Tyme 3
+confluent-cli: Confluent CLI
+kiwi-for-gmail: Kiwi for Gmail
+soothe2: Soothe 2
+gpower: G*Power
+midi-monitor: MIDI Monitor
+paperpile: Paperpile
+tunnelblick: Tunnelblick
+fireworks: Fireworks
+haroopad: Haroopad
+goldendict: GoldenDict
+lightkey: Lightkey
+serial: Serial
+capto: Capto
+get-backup-pro: Get Backup Pro 3
+fly: fly
+i1profiler: i1Profiler, Eye-One Profiler, i1Publish
+macintoshjs: macintosh.js
+fsmonitor: FSMonitor
+mi: mi
+aptible: Aptible Toolbelt
+rider: JetBrains Rider
+ridibooks: Ridibooks
+plug: Plug
+crypter: Crypter
+yojimbo: Yojimbo
+teamviewer-quickjoin: TeamViewer QuickJoin, TeamViewer QJ
+remix-ide: Remix IDE desktop
+between: Between
+opensesame: OpenSesame
+ultimate-control: NEGU Soft Ultimate Control
+aleph-one: Aleph One
+onecast: OneCast
+chronycontrol: ChronyControl
+futubull: Futubull, FutuNiuniu
+bookends: Bookends
+horos: Horos
+mountain-duck: Mountain Duck
+comma-chameleon: Comma Chameleon
+zenbeats: Zenbeats
+webull: Webull
+colour-contrast-analyser: Colour Contrast Analyser (CCA)
+wondershare-uniconverter: UniConverter
+spectacle: Spectacle
+rssowl: RSSOwl
+pdfextractor: PDFExtractor
+upterm: Upterm
+wercker: Wercker
+shimonote: Shimonote
+xamarin-android: Xamarin.Android
+exist-db: eXist-db
+iceberg: Iceberg
+sketchup-pro: SketchUp
+logseq: Logseq
+raze: Raze
+modelio: Modelio
+stack: STACK
+cr: Cool Reader
+shimo: Shimo
+basecamp: Basecamp
+x-mirage: X-Mirage
+taskade: Taskade
+save-hollywood: SaveHollywood Screensaver
+fontstand: Fontstand
+twilioquest: TwilioQuest
+forticlient: FortiClient
+zulufx: ZuluFX
+librepcb: LibrePCB
+onedrive: OneDrive
+macterm: MacTerm
+slimhud: SlimHUD
+busycontacts: BusyContacts
+soulseek: Soulseek
+tlv: Tableau Log Viewer
+sogouinput: Sogou Input Method, 搜狗输入法
+lightform: Lightform Creator
+kube-forwarder: Kube Forwarder
+handbrake: HandBrake
+dictionaries: Dictionaries
+fenix: Fenix
+masscode: massCode
+openloco: OpenLoco
+insync: Insync
+bootchamp: BootChamp
+polar-bookshelf: Polar Bookshelf
+google-assistant: Google Assistant Unofficial Desktop Client
+cryptr: Cryptr
+wine-stable: WineHQ-stable
+betwixt: Betwixt
+tikzit: TikZiT
+eggplant: eggPlant Functional
+brewtarget: brewtarget
+chai: Chai
+routeconverter: RouteConverter
+colorsnapper: ColorSnapper 2
+obs: OBS
+reaper: REAPER
+macdown: MacDown
+slate: Slate
+startninja: StartNinja
+airserver: AirServer
+guijs: guijs
+code-composer-studio: Code Composer Studio (CCS)
+switchkey: SwitchKey
+godot-mono: Godot Engine
+unified-remote: Unified Remote
+ondesoft-audiobook-converter: OndeSoft Audible Audiobook Converter
+intellij-idea: IntelliJ IDEA Ultimate
+gifrocket: Gifrocket
+tau: TAU
+cisdem-pdf-converter-ocr: Cisdem PDF Converter OCR
+clips-ide: CLIPS IDE
+latexdraw: LaTexDraw
+protonmail-bridge: ProtonMail Bridge
+wechatwebdevtools: wechat web devtools, 微信web开发者工具
+bit-slicer: Bit Slicer
+onlyoffice: ONLYOFFICE
+jumpcut: Jumpcut
+aquamacs: Aquamacs
+lunar-client: Lunar Client
+battle-net: Blizzard Battle.net
+cuda-z: CUDA-Z
+invisor-lite: Invisor Lite
+cisdem-document-reader: Cisdem Document Reader
+open-video-downloader: Open Video Downloader
+slimbatterymonitor: SlimBatteryMonitor
+pineapple: Pineapple
+freeze: Freeze
+navicat-premium-essentials: Navicat Premium Essentials
+steamcmd: SteamCMD
+reveal: Reveal
+qbittorrent: qBittorrent
+fpc-laz: Pascal compiler for Lazarus
+astah-uml: Change Vision Astah UML
+ckan: Comprehensive Kerbal Archive Network
+bonjour-browser: Bonjour Browser
+poedit: Poedit
+touchosc: touchosc
+beekeeper-studio: Beekeeper Studio
+chrome-remote-desktop-host: Chrome Remote Desktop
+keyman: Keyman
+webex: Webex Teams
+snagit: Snagit
+biscuit: Biscuit
+anydo: Any.do
+wsjtx: WSJT-X
+showhiddenfiles: ShowHiddenFiles
+billings-pro: Billings Pro
+gdat: Genealogical DNA Analysis Tool
+netlogo: NetLogo
+ipremoteutility: Flanders IP Remote Utility
+mindjet-mindmanager: Mindmanager
+voodoopad: VoodooPad
+mini-program-studio: Mini Program Studio, 小程序开发者工具
+spark: Spark
+ubar: uBar
+imagealpha: ImageAlpha
+boinc: Berkeley Open Infrastructure for Network Computing, BOINC
+firmaec: FirmaEC
+logicsniffer: Logic Sniffer
+ilok-license-manager: iLok License Manager
+whichspace: WhichSpace
+mongodbpreferencepane: MongoDB-PrefsPane
+geph: Geph
+hey: HEY
+hfsleuth: HFSleuth
+chiaki: Chiaki
+thinkorswim: thinkDesktop
+nisus-thesaurus: Nisus Thesaurus
+markdownmdimporter: Markdown Spotlight Plugin
+hiddenbar: Hidden Bar
+messenger: Facebook Messenger
+nagbar: NagBar
+media-center: JRiver Media Center
+polycom-realpresence: Polycom RealPresence Desktop
+curseforge: CurseForge
+codespace: Codespace
+airunlock: AirUnlock
+microsoft-remote-desktop: Microsoft Remote Desktop
+dendroscope: Dendroscope
+pdf-squeezer: PDF Squeezer
+pd-extended: Pd-extended
+srware-iron: SRWare SRWare Iron
+redisinsight: RedisInsight
+writer: Writer
+bbedit: BBEdit
+fspy: fSpy
+eve-launcher: Eve Online
+zoomus: Zoom.us makeshift alias
+lehreroffice: LehrerOffice
+jalview: Jalview
+corona-tracker: Corona Tracker
+clay: clay
+desktoputility: DesktopUtility
+bubo: Bubo, Spotify Bluetooth Headset Listener
+receiptquicklook: ReceiptQuickLook
+nimblenote: nimblenote
+semulov: Semulov
+dbngin: DBngin
+cleanmymac: CleanMyMac X
+denemo: Denemo
+adguard-vpn: AdGuard VPN
+factor: Factor
+couchbase-server-community: Couchbase Server
+sitesucker-pro: SiteSucker Pro
+chatmate-for-whatsapp: ChatMate for WhatsApp
+psychopy: PsychoPy
+exifrenamer: ExifRenamer
+divvy: Divvy
+brl-cad-mged: BRL-CAD
+dropbox-capture: Dropbox Capture
+icanhazshortcut: iCanHazShortcut
+ddnet: DDNet
+winclone: Winclone
+fluent-reader: Fluent Reader
+rectangle: Rectangle
+quiterss: QuiteRSS
+multimc: Multi MC
+indigo: Indigo Domotics
+kdiff3: KDiff3
+blisk: Blisk Browser
+ncar-ncl: NCAR Command Language, ncl
+intel-haxm: Intel HAXM
+thonny: Thonny
+ipfs: IPFS Desktop
+fme: FME Desktop
+launchpad-manager: Launchpad Manager
+x2goclient: X2Go Client
+jazzup: JazzUp
+rapidminer-studio: RapidMiner Studio
+keepingyouawake: KeepingYouAwake
+seamonkey: SeaMonkey
+idagio: IDAGIO
+photoninja: Photo Ninja
+cinderella: Cinderella
+enzymex: EnzymeX
+captin: Captin
+torrent-file-editor: Torrent File Editor
+timecamp: TimeCamp
+twitterrific: Twitterrific, Phoenix
+mirrorop: MirrorOp Sender
+tuxera-ntfs: Tuxera NTFS
+swifty: Swifty
+interarchy: Interarchy
+splashtop-personal: Splashtop Personal
+quickgeojson: quickgeojson
+pronterface: Printrun
+bowtie: Bowtie
+vellum: Vellum
+feishu: feishu
+twobird: Twobird
+wjoy: WJoy
+drivethrurpg: DriveThruRPG Library App
+hancock: Hancock
+mongotron: Mongotron
+gactions: gactions
+vivaldi: Vivaldi
+focuswriter: FocusWriter
+synthesia: Synthesia
+coin-wallet: Coin Wallet
+invesalius: InVesalius
+invisionsync: InVision Sync
+brainfm: Brain.fm
+joplin: Joplin
+zoho-mail: Zoho Mail
+qgroundcontrol: QGroundControl
+aria2d: Aria2D
+sharepod: Sharepod
+datagraph: DataGraph
+astro-command-center: ASTRO Command Center
+noisy: Noisy
+parallels: Parallels Desktop
+tint: Tint
+slik: Slik
+quik: GoPro Quik
+aptanastudio: Aptana Studio
+functionflip: FunctionFlip
+hush: Hush
+dmenu-mac: dmenu-mac
+autodesk-fusion360: Autodesk Fusion 360
+anonymousvpn: Anonymous VPN
+macfusion: Macfusion
+gramps: Gramps
+mylio: Mylio
+manta: Manta
+iota-wallet: IOTA Wallet
+macx-video: macXvideo
+logdna-cli: LogDNA CLI
+visual: VisUAL
+rosaimagewriter: ROSA ImageWriter
+exactscan: ExactScan
+yemuzip: YemuZip
+hacker-menu: Hacker Menu
+tablecruncher: Tablecruncher
+expandrive: ExpanDrive
+crossover: CrossOver
+ssokit: SSokit
+mks: MKS
+fotokasten: Fotokasten
+parallels-toolbox: Parallels Toolbox
+corretto: AWS Corretto JDK
+showyedge: ShowyEdge
+caption: Caption
+leela: Leela
+uniflash: TI UniFlash
+graphicconverter: GraphicConverter
+protopie: ProtoPie
+mathtype: MathType
+mos: Mos
+rolisteam: Rolisteam
+goneovim: Goneovim
+futurerestore-gui: FutureRestore GUI
+landrop: LANDrop
+pdf-converter-master: PDF Converter Master
+the-cheat: The Cheat
+soundcloud-downloader: SoundCloud Downloader
+onepile: OnePile
+paintcode: PaintCode
+sequential: Sequential
+cursorsense: CursorSense
+sococo: Sococo
+private-internet-access: Private Internet Access
+tortoisehg: TortoiseHg
+circuitjs1: Falstad CircuitJS
+qownnotes: QOwnNotes
+navicat-data-modeler: Navicat Data Modeler
+progressive-downloader: Progressive Downloader
+emacs: Emacs
+suspicious-package: Suspicious Package
+chromium: Chromium
+yep: Yep
+deepl: DeepL
+id3-editor: ID3 Editor
+duplicacy: Duplicacy
+textmate: TextMate
+silicon-info: Silicon Info
+blheli-configurator: BLHeli Configurator
+osxfuse: OSXFUSE
+macx-dvd-ripper-pro: MacX DVD Ripper Pro
+actual-odbc-pack: Actual ODBC Driver Pack
+explorer: Explorer
+wire: Wire
+pure-writer: Pure Writer Desktop
+pinta: Pinta
+pdf-expert: PDF Expert
+remote-wake-up: Remote Wake Up
+atemosc: atemOSC
+toland-qlmarkdown: QLMarkdown
+mudlet: Mudlet
+dingtalk-lite: DingTalk Lite, 钉钉 Lite
+koa11y: Koa11y
+simplelink-msp432-sdk: SimpleLink MSP432P4 High-precision ADC MCU Software Development Kit
+asciidocfx: AsciidocFX
+openbci: OpenBCI
+filepane: FilePane
+tinypng4mac: TinyPNG4Mac
+bloomrpc: BloomRPC
+jettison: Jettison, St. Clair Software Jettison
+ibm-cloud-cli: IBM Cloud CLI
+spechtlite: SpechtLite
+redream: redream
+kvirc: KVIrc
+jqbx: JQBX
+jiohome: JioHome
+miktex-console: MiKTeX
+vnote: VNote
+bitcoin-core: Bitcoin Core
+sync-my-l2p: Sync-my-L2P
+fs-uae-launcher: FS-UAE Launcher
+citra: Citra
+protoio-overflow: Overflow
+transfer: transfer
+faxbot: Faxbot
+vassal: VASSAL
+hex-fiend: Hex Fiend
+electrum-ltc: Electrum-LTC
+phew: Phew
+edenmath: EdenMath
+moneymoney: MoneyMoney
+audacity: Audacity
+presentation: Présentation
+voxql: voxql
+odrive: odrive
+fauxpas: Faux Pas
+pomatez: Pomatez
+freetube: FreeTube
+emojipedia: Emojipedia
+pdfshaver: PDFShaver
+creepy: Creepy
+termhere: TermHere
+movist: Movist
+vlcstreamer: VLC Streamer
+flixtools: OpenSubtitles FlixTools Lite
+tutanota: Tutanota Desktop
+tvrenamer: TVRenamer
+firealpaca: Fire Alpaca
+aliworkbench: AliWorkBench, Qian Niu, 千牛
+pdfpenpro: PDFpenPro
+avira-antivirus: Avira Antivirus
+gyazmail: GyazMail
+simplefloatingclock: Simple Floating Clock
+audiobook-builder: Audiobook Builder
+notational-velocity: Notational Velocity
+digikam: digiKam
+spillo: Spillo
+lightgallery: lightgallery
+mindmaster: MindMaster
+superproductivity: Super Productivity
+sparrow: Sparrow Bitcoin Wallet
+minizincide: MiniZincIDE
+dupscanub: DupScan
+thyme: Thyme
+mysql-shell: MySQL Shell
+maelstrom: Maelstrom
+steermouse: SteerMouse
+xbench: Xbench
+qtspim: QtSpim
+origami-studio: Origami Studio
+hakuneko: HakuNeko
+simsim: SimSim
+messenger-native: Messenger Native
+klatexformula: KLatexFormula
+quicklook-pat: Adobe Photoshop Patterns Quicklook Plugin
+ibored: iBored
+mcgimp: McGimp
+eaglefiler: EagleFiler
+namechanger: NameChanger
+notch-simulator: Notch Simulator
+nano: Nano
+camunda-modeler: Camunda Modeler
+imagemin: imagemin
+trim-enabler: Trim Enabler
+avast-security: Avast Security
+macmorpheus: MacMorpheus
+dynamic-dark-mode: Dynamic Dark Mode
+thunderbird: Mozilla Thunderbird
+deltawalker: DeltaWalker
+djview: DjView
+fluor: Fluor
+standard-notes: Standard Notes
+neteasemusic: NetEase cloud music, 网易云音乐
+blink1control: Blink1Control
+tyke: Tyke
+openkey: OpenKey
+supertuxkart: SuperTuxKart
+iconset: Iconset
+growlnotify: GrowlNotify
+rapidweaver: RapidWeaver
+lmms: LMMS
+nodebox: NodeBox
+logdna-agent: LogDNA Agent
+wechat: WeChat for Mac, 微信 Mac 版
+cockatrice: Cockatrice
+recaf: Recaf
+camtasia: Camtasia
+sidekick: Sidekick
+evernote: Evernote
+epubquicklook: EPUB QuickLook
+procexp: Process Explorer
+buckets: Buckets
+ipe: Ipe
+smcfancontrol: smcFanControl
+tempo: Tempo
+container-ps: Container PS
+cookie: Cookie
+scriptql: ScriptQL
+harmony: Harmony
+temurin: Eclipse Temurin Java Development Kit
+nrlquaker-winbox: Winbox-mac
+keyfinder: KeyFinder
+gdisk: GPT fdisk
+saoimageds9: SAOImage DS9
+fanny: FannyWidget
+latest: Latest
+dexed: Dexed
+berrycast: Berrycast
+electrocrud: ElectroCRUD
+typinator: Typinator
+fs-uae: FS-UAE
+radicle-upstream: Radicle Upstream
+customshortcuts: CustomShortcuts
+eclipse-ide: Eclipse IDE for Eclipse Committers
+machg: MacHg
+ariang: AriaNg Native
+navicat-premium: Navicat Premium
+klogg: Klogg
+overkill: Overkill
+machoview: MachOView
+today-scripts: Today Scripts
+mbed-studio: Mbed Studio
+ximalaya: ximalaya, 喜马拉雅
+createuserpkg: CreateUserPkg
+unclutter: Unclutter
+projectlibre: ProjectLibre
+appgrid: AppGrid
+liteicon: LiteIcon
+pagico: Pagico
+fabfilter-pro-q: FabFilter Pro-Q
+threema: threema
+dynobase: Dynobase
+wordservice: WordService
+utools: uTools
+todometer: todometer
+serviio: Serviio
+airmedia: Crestron AirMedia
+prince: Prince
+grid-clock: Grid Clock Screensaver
+ifunbox: iFunBox
+sidestep: Sidestep
+tower: Tower
+quicken: Quicken
+mailbutler: Mailbutler
+fman: fman
+intellidock: IntelliDock
+the-unarchiver: The Unarchiver
+mongodb-realm-studio: MongoDB Realm Studio
+navicat-for-mysql: Navicat for MySQL
+baidunetdisk: Baidu NetDisk, 百度网盘
+workbench: Workbench
+offset-explorer: Offset Explorer, Kafka Tool
+ieasemusic: ieaseMusic
+min: Min
+devonthink: DEVONthink
+pdfelement-express: PDFelement Express
+edfbrowser: EDFbrowser
+knockknock: KnockKnock
+swiftplantumlapp: swiftplantumlapp
+keyshot: KeyShot
+ksdiff: ksdiff
+0-ad: 0 A.D.
+electronic-wechat: Electronic WeChat
+google-chat-electron: google-chat-electron
+android-sdk: android-sdk
+flycut: Flycut
+safe-exam-browser: Safe Exam Browser
+cryptomator: Cryptomator
+pongsaver: PongSaver
+cityofzion-neon: Neon Wallet
+specter: Specter
+colorpicker-developer: Developer Color Picker
+arq: Arq
+mavensmate: MavensMate
+udig: uDig
+microsoft-auto-update: Microsoft Auto Update
+electricbinary: Electric VLSI Design System
+melonbooksviewer: Melonbooks Viewer, メロンブックス 電子書籍
+keybase: Keybase
+syncmate: SyncMate
+ringcentral-phone: RingCentral Phone
+hbuilderx: HBuilderX
+sublime-merge: Sublime Merge
+fpc-src-laz: Pascal compiler source files for Lazarus
+youtrack-workflow: JetBrains Youtrack Workflow Editor
+veracrypt: VeraCrypt
+makemkv: MakeMKV
+musaicfm: MusaicFM Screensaver
+yandex-cloud-cli: Yandex Cloud CLI
+canva: Canva
+fontforge: FontForge
+qutebrowser: qutebrowser
+netnewswire: NetNewsWire
+qiyimedia: iQIYI, 爱奇艺视频
+viber: Viber
+locationsimulator: LocationSimulator
+aircall: Aircall
+clip-studio-paint: Clip Studio Paint
+doxie: Doxie
+sixtyforce: sixtyforce
+vamiga: vAmiga
+flvcd-bigrats: 硕鼠MAC
+miro: Miro, RealtimeBoard
+scidavis: scidavis
+minecraft: Minecraft
+revolver-office: Revolver Office
+nomachine: NoMachine
+vienna: Vienna
+pritunl: Pritunl
+audioslicer: AudioSlicer
+marsedit: MarsEdit
+understand: SciTools Understand
+black-ink: Black Ink
+geburtstagschecker: GeburtstagsChecker
+tuneskit-m4v-converter: TunesKit M4V Converter
+namebench: namebench
+cloudytabs: CloudyTabs
+rotato: Rotato
+vym: VYM (View Your Mind)
+openoffice: Apache OpenOffice
+ableton-live-suite: Ableton Live Suite
+session-manager-plugin: Session Manager Plugin for the AWS CLI
+duplicate-annihilator-for-photos: Duplicate Annihilator for Photos
+radio-silence: Radio Silence
+projector: JetBrains Projector
+android-file-transfer: Android File Transfer
+perimeter81: Perimeter 81
+typora: Typora
+haptic-touch-bar: Haptic Touch Bar
+jameica: Jameica
+lyrics-master: Lyrics Master
+tencent-meeting: Tencent Meeting, 腾讯会议
+bunqcommunity-bunq: bunqDesktop
+waltr-heic-converter: WALTR HEIC Converter
+athens: Athens
+sketch-toolbox: Sketch Toolbox
+writemapper: WriteMapper
+ppduck: PPDuck
+jdownloader: JDownloader
+blackhole-2ch: BlackHole 2ch
+mp4tools: MP4tools
+loginputmac: LoginputMac
+vpn-enabler: VPN Enabler
+my-image-garden: Canon My Image Garden
+plover: Plover
+quicklook-pfm: quicklook-pfm
+keeweb: KeeWeb
+keeper-password-manager: Keeper Password Manager
+flowdock: Flowdock
+starleaf: Starleaf
+mountain: Mountain
+starsector: Starsector
+iris: Iris
+dcommander: DCommander
+bloodhound: bloodhound
+convert3dgui: Convert3DGUI
+postgres-unofficial: Postgres
+bibdesk: BibDesk
+jasper: Jasper
+loom: Loom
+kern: Kern
+output-factory: Output Factory
+aria2gui: Aria2GUI
+mcedit: MCEdit-Unified
+purevpn: PureVPN
+tagger: Tagger
+unicodechecker: UnicodeChecker
+hue-topia: Hue-topia
+mame: MAME
+omnipresence: OmniPresence
+nosleep: NoSleep
+shearwater-cloud: Shearwater Cloud
+eagle: Autodesk EAGLE
+apple-juice: Apple Juice
+sunvox: SunVox
+crystax-ndk: Crystax NDK
+teamviewermeeting: TeamViewerMeeting
+cd-to: cd to
+encryptme: EncryptMe, Cloak
+prefs-editor: Prefs Editor
+fuzzyclock: FuzzyClock
+sketchpacks: Sketchpacks
+dmidiplayer: dmidiplayer
+transmission-remote-gui: Transmission Remote GUI
+transmission: Transmission
+retrobatch: Retrobatch
+keycastr: KeyCastr
+turtl: turtl
+macdjview: MacDjView
+marble: Marble
+brooklyn: Brooklyn
+geekbench: Geekbench
+db-browser-for-sqlite: DB Browser for SQLite
+ebibookreader: ebi.BookReader
+deezer: Deezer
+security-growler: Security Growler
+meshlab: MeshLab
+swiftdefaultappsprefpane: SwiftDefaultApps
+jpadilla-redis: Redis
+ionic-lab: IonicLab
+winzip: WinZip
+gitnote: gitnote
+mdimagesizemdimporter: mdImageSize
+avocode: Avocode
+core-data-editor: Core Data Editor
+lynxlet: Lynxlet
+jtool2: jtool2
+postman: Postman
+imagej: ImageJ
+hoststool: Hosts tool for Mac
+iterm2: iTerm2
+datovka: Datovka
+microblog: Micro.blog
+firecamp: Firecamp
+logitech-presentation: Logitech Presentation
+klokki: Klokki
+ghdl: ghdl
+ghosttile: Kernelpanic GhostTile, GhostTile
+tiger-trade: Tiger Trade, 老虎证券
+macdive: MacDive
+dropbox: Dropbox
+hackintool: Hackintool
+sunsama: Sunsama
+metaz: MetaZ
+soqlxplorer: SoqlXplorer
+engine-prime: Engine Prime
+macs-fan-control: Macs Fan Control
+runescape: RuneScape
+milanote: Milanote
+daedalus-mainnet: Daedalus Mainnet
+webcatalog: WebCatalog
+exfalso: Ex Falso
+ultrastardeluxe: UltraStar Deluxe
+syncplay: Syncplay
+quassel: Quassel
+tenor: Tenor
+tencent-lemon: Tencent Lemon Cleaner
+pext: Pext
+tysimulator: TySimulator
+redis-pro: redis-pro
+avidemux: Avidemux
+threads: Threads
+bootxchanger: BootXChanger
+nault: Nault
+insomnia: Insomnia
+timing: Timing, Timing 2
+composercat: Composercat
+jbrowse: jbrowse
+maccy: Maccy
+quickbooks-online: QuickBooks
+deluge: Deluge
+shift: Shift
+xdm: Xtreme Download Manager
+mat: Eclipse Memory Analyzer
+snip: Snip
+displaycal: DisplayCAL
+desktoppr: desktoppr
+operadriver: OperaChromiumDriver
+merlin-project: Merlin Project
+jasp: JASP
+startupizer: Startupizer2
+iphoto-library-manager: iPhoto Library Manager
+paragon-ntfs: Paragon NTFS for Mac
+securid: RSA SecurID
+itools: iTools
+metashapepro: Agisoft Metashape Professional Edition
+home-inventory: Home Inventory
+openrct2: OpenRCT2
+mendeley-reference-manager: Mendeley Reference Manager
+octomouse: OctoMouse
+todoist: Todoist
+dcp-o-matic-encode-server: DCP-o-matic Encode Server
+hashbackup: hashbackup
+fing-cli: Fing Desktop Embedded CLI
+codeql: CodeQL
+http-toolkit: HTTP Toolkit
+pragli: Pragli
+welly: Welly
+teamdrive: TeamDrive
+handbrakebatch: HandBrakeBatch
+utm: UTM
+quickhash: Quickhash
+packet-peeper: Packet Peeper
+lunasea: LunaSea
+outline: Outline
+chronoagent: ChronoAgent
+sourcetrail: Sourcetrail
+dockstation: DockStation
+lyn: Lyn
+the-archive: The Archive
+amazon-workdocs-drive: Amazon WorkDocs Drive
+sabnzbd: SABnzbd
+moradownloader: Mora Downloader
+latexit: LaTeXiT
+nullpomino: NullpoMino
+fstream: FStream
+cncjs: CNSjs
+gridea: Gridea
+gswitch: gSwitch
+monity-helper: Monity Helper
+tales-of-majeyal: Tales of Maj'Eyal
+mem: Mem
+ascension: Ascension
+sharemouse: ShareMouse
+ao: Ao
+linphone: Linphone
+unnaturalscrollwheels: UnnaturalScrollWheels
+appium: Appium Server Desktop GUI
+blender-benchmark: Blender Open Data Benchmark
+rpn-scientific: RPN Scientific Calculator
+cloud-pbx: Cloud PBX
+nozbe-personal: Nozbe
+ndm: ndm
+ejector: Ejector
+cheetah3d: Cheetah3D
+chatwork: ChatWork
+knox: Knox
+playonmac: PlayOnMac
+nsregextester: NSRegexTester
+pixelorama: Pixelorama
+jami: Jami, Savoir-faire Linux Ring
+xmind: XMind
+therm: Therm
+batchmod: BatChmod
+acronis-true-image: Acronis True Image
+avast-secure-browser: Avast Secure Browser
+scummvm: ScummVM
+gobdokumente: GoBDokumente, GoBDocuments
+ripcord: Ripcord
+retroshare: RetroShare
+fugu: Fugu
+mauve: Mauve
+icab: iCab
+fliqlo: Fliqlo
+nocturne: Nocturne
+pictogram: Pictogram
+malwarebytes: Malwarebytes for Mac
+gitscout: Gitscout
+yu-writer: Yu Writer
+sql-tabs: SQL Tabs
+fellow: Fellow
+puppetry: Puppetry
+wings3d: Wings 3D
+chessx: ChessX
+cornerstone: Cornerstone
+qlgradle: qlgradle
+ireadfast: iReadFast
+stack-stack: Stack
+flow: Flow
+now: Now
+pycharm-with-anaconda-plugin: Jetbrains PyCharm with Anaconda plugin
+logisim: Logisim
+enpass: Enpass
+qt-creator: Qt Creator
+loopback: Loopback
+gplates: GPlates
+colorwell: ColorWell
+oclint: OCLint
+swiftpm-catalog: SwiftPM Catalog
+usb-overdrive: USB Overdrive
+coffitivity-offline: Coffitivity Offline
+mediahuman-youtube-downloader: MediaHuman YouTube Downloader
+shortcutor: Shortcutor
+ace-link: Ace Link
+jgrennison-openttd: JGR's OpenTTD Patchpack
+marathon2: Marathon 2
+texpad: Texpad
+coteditor: CotEditor
+upwork: Upwork
+acquia-dev: Acquia Dev Desktop
+biopassfido: BioPass FIDO2 Manager
+image-tool: Image Tool
+xmplify: Xmplify
+chef-workstation: Chef Workstation
+lulu: LuLu
+qlmobi: QLMobi
+4k-stogram: 4K Stogram
+daedalus-testnet: Daedalus Testnet
+jamovi: jamovi
+wifi-explorer: WiFi Explorer
+eqmac: eqMac
+box-drive: Box Drive
+nheko: Nheko
+calmly-writer: Calmly Writer
+fiscript: FiScript
+droplr: Droplr
+pdfsam-basic: PDFsam Basic
+papyrus: Papyrus
+inloop-qlplayground: inloop-qlplayground
+recordit: RecordIt
+aimersoft-video-converter-ultimate: Aimersoft Video Converter Ultimate
+material-colors: Material Colors for Mac
+backuploupe: BackupLoupe
+muse: Muse
+panic-unison: Panic Unison
+only-switch: OnlySwitch
+cutter: Cutter
+letter-opener: Letter Opener
+packages: Packages
+airpass: Airpass
+mark-text: Mark Text
+gifox: gifox
+syncalicious: Syncalicious
+joker: Joker iOS kernelcache handling utility
+mmex: Money Manager Ex
+gosign: GoSign Desktop
+gemini: Gemini
+litecoin: Litecoin
+gpg-sync: GPG Sync
+trezor-suite: TREZOR Suite
+exifcleaner: ExifCleaner
+lazpaint: LazPaint
+duefocus: DueFocus
+dash-dash: Dash
+unity: Unity Editor
+one-switch: One Switch
+little-snitch: Little Snitch
+simply-fortran: Simply Fortran
+firestorm: Phoenix Firestorm viewer for Second Life
+eclipse-cpp: Eclipse IDE for C/C++ Developers
+silentknight: SilentKnight
+synfigstudio: Synfig Studio
+ray: Ray
+photo-supreme-single-user: Photo Supreme Single User
+photosweeper-x: PhotoSweeper X
+quickhue: QuickHue
+neat-reader: Neat Reader
+midistroke: midiStroke
+numi: Numi
+wifispoof: WiFiSpoof
+dd-utility: dd Utility
+affinity-designer: Affinity Designer
+jumpshare: Jumpshare
+helium: Helium
+jmc: jmc
+vofa-plus: VOFA+
+amazon-photos: Amazon Drive, Amazon Photos
+leapp: Leapp
+treesheets: TreeSheets
+darwindumper: DarwinDumper
+operator: Operator
+code42-crashplan: Code42 CrashPlan
+celestialteapot-runway: Runway
+time-to-leave: Time To Leave
+spyder: Spyder
+timings: Timings
+monolingual: Monolingual
+noti: Noti
+lastpass: LastPass
+foxitreader: Foxit Reader
+qlfits: QLFits
+cloudcompare: CloudCompare
+lifesize: lifesize
+mysql-connector-python: MySQL Connector for Python
+pycharm-ce-with-anaconda-plugin: Jetbrains PyCharm Community Edition with Anaconda plugin, PyCharm CE with Anaconda plugin
+panda: Panda
+mcreator: MCreator
+windscribe: Windscribe
+expressvpn: ExpressVPN
+proclaim: Faithlife Proclaim
+azirevpn: AzireVPN
+openinterminal: OpenInTerminal
+mini-vmac: Mini vMac
+native-access: Native Access
+toolreleases: ToolReleases
+tencent-docs: Tencent Docs, 腾讯文档
+fabfilter-micro: FabFilter Micro
+swimat: Swimat
+celestia: Celestia
+appzapper: AppZapper
+nuage: Nuage
+microsoft-openjdk: Microsoft Build of OpenJDK
+privatetunnel: Private Tunnel
+devolo-cockpit: Devolo dLAN Cockpit
+immersed: Immersed
+whatsyoursign: What's Your Sign?
+jad: Jad
+luyten: Luyten
+dteoh-devdocs: DevDocs
+cumulus: Cumulus
+cajviewer: CAJViewer, CAJ云阅读
+visual-studio: Microsoft Visual Studio
+session: Session
+iconjar: IconJar
+tableau-public: Tableau Public
+free-ruler: Free Ruler
+spectacle-editor: Spectacle Editor
+mysql-utilities: MySQL Utilities
+combine-pdfs: Combine PDFs
+cirrus: Cirrus
+obs-ndi: obs-ndi
+clocker: Clocker
+ishowu-instant: iShowU Instant
+macstroke: MacStroke
+fabfilter-pro-r: FabFilter Pro-R
+noxappplayer: NoxAppPlayer
+electron-fiddle: Electron Fiddle
+josm: JOSM
+crystalmaker: CrystalMaker
+gloomhaven-helper: Gloomhaven Helper
+svgcleaner: SVG Cleaner
+paparazzi: Paparazzi!
+x-moto: X-Moto
+bandage: Bandage
+unity-webgl-support-for-editor: Unity WebGL Build Support
+cocoapods: CocoaPods.app
+mailmaster: NetEase Mail Master, 网易邮箱大师
+springtoolsuite: Spring Tool Suite
+hancom-word: Hacom Word Processor 2014 VP
+pcoipclient: Teradici PCoIP Software Client for macOS
+betterdiscord-installer: betterdiscord
+yandex: Yandex.Browser
+colorchecker-camera-calibration: ColorChecker Camera Calibration
+mpv: mpv
+adobe-digital-editions: Adobe Digital Editions
+nextcloud: Nextcloud
+webex-meetings: Webex Meetings
+neo4j: Neo4j Desktop
+houseparty: Houseparty
+tipp10: TIPP10
+meteorologist: Meteorologist
+unity-hub: Unity Hub
+hook: Hook
+murus-menulet: Murus Firewall
+gitup: GitUp
+postbird: Postbird
+jedit: jEdit
+affinity-publisher: Affinity Publisher
+firebird-emu: firebird
+anonym: Anonym
+clipgrab: ClipGrab
+weka: Weka
+komet: Komet
+keycast: KeyCast
+paper: Paper
+openconnect-gui: OpenConnect-GUI
+detectx-swift: DetectX Swift
+atext: aText
+qtpass: QtPass
+subnetcalc: SubnectCalc
+filebot: FileBot
+menubar-colors: Menubar Colors
+ankiapp-anki: AnkiApp
+jump: Jump Desktop
+novabench: Novabench
+tev: tev
+segger-embedded-studio-for-arm: SEGGER Embedded Studio for ARM
+mono-mdk: Mono
+youll-never-take-me-alive: You'll Never Take Me Alive!, YoNTMA
+sysdig-inspect: Sysdig Inspect
+rq: rq
+vnc-server: Real VNC Server
+majsoul-plus: Majsoul Plus
+google-ads-editor: Google Ads Editor
+mockoon: Mockoon
+spatial: Spatial
+cemu: CEmu
+videofusion: VideoFusion, 剪映专业版
+mambaforge: mambaforge
+opencpn: OpenCPN
+vimediamanager: ViMediaManager
+nordlayer: NordLayer
+jdiskreport: JDiskReport
+popmaker: PopMaker
+talon: Talon
+foldit: Foldit
+ticktick: TickTick
+vimr: VimR
+element: Element
+docker: Docker Desktop, Docker Community Edition, Docker CE
+marginnote: MarginNote
+start: START, 腾讯云游戏
+scenebuilder: Scene Builder
+mu-editor: Mu
+razorsql: RazorSQL
+shifty: Shifty
+kindle: Kindle for Mac
+spotify-now-playing: Spotify - now playing
+eclipse-modeling: Eclipse Modeling Tools
+moefe-google-translate: MoeFE Google Translate
+dash: Dash
+intel-psxe-ce-c-plus-plus: Intel Parallel Studio XE Composer Edition for C++
+mplayerx: MPlayerX
+go2shell: Go2Shell
+profind: ProFind
+tifig: Tifig
+microsoft-excel: Microsoft Excel
+lilypond: LilyPond
+melonds: melonDS
+deepnest: Deepnest
+wowmatrix: WowMatrix
+gnucash: GnuCash
+qsync-client: Qnap Qsync
+phoenix-slides: Phoenix Slides
+fantasy-map-generator: Azgaar's Fantasy Map Generator
+fvim: FVim
+disk-drill: Disk Drill
+linearmouse: LinearMouse
+zenmate-vpn: ZenMate VPN
+inky: Inky
+clean-me: Clean-me
+avitools: AVItools
+vagrant: Vagrant
+metashape: Agisoft Metashape Standard Edition
+qlnetcdf: QLNetcdf
+blobby-volley2: Blobby Volley 2
+devdocs: DevDocs App
+balenaetcher: Etcher
+eloston-chromium: Ungoogled Chromium
+sonarr-menu: Sonarr Menu
+jprofiler: JProfiler
+xiami: Xiami, 虾米音乐
+eclipse-jee: Eclipse IDE for Java EE Developers
+raven-reader: Raven Reader
+adobe-creative-cloud: Adobe Creative Cloud
+dotnet-sdk: .NET SDK
+prismatik: Prismatik
+nordpass: NordPass
+play: Play
+perforce: Perforce Helix Core Server, Perforce Helix Command-Line Client (P4), Perforce Helix Broker (P4Broker), Perforce Helix Versioning Engine (P4D), Perforce Helix Proxy (P4P)
+nbtexplorer: NBTExplorer
+elasticwolf: AWS ElasticWolf Client Console
+boxcryptor: Boxcryptor
+thebrain: TheBrain
+lighting: Lighting
+g-desktop-suite: G Desktop Suite
+pd-l2ork: Pd-l2ork, Purr Data
+resolutionator: Resolutionator
+logicalshift-zoom: Zoom
+invoker: Invoker
+ukrainian-unicode-layout: Ukrainian Unicode Layout
+fog: Fog
+dusty: Dusty
+boom: Boom
+endurance: Endurance
+slippi-dolphin: Slippi
+valley: Valley Benchmark
+nulloy: Nulloy
+sqlpro-for-sqlite: SQLPro for SQLite
+apache-directory-studio: Apache Directory Studio
+writefull: Writefull
+bonjeff: Bonjeff
+playcover: PlayCover
+popchar: PopChar X
+baiduinput: Baidu Input, 安装百度输入法
+sizeup: SizeUp
+beacon-scanner: BeaconScanner
+safe-multisig: Gnosis Safe Multisig
+prowritingaid: ProWritingAid
+butler: Butler
+lagrange: Lagrange
+castr: castr
+jellybeansoup-netflix: Netflix
+apptivate: Apptivate
+mutespotifyads: MuteSpotifyAds
+openvanilla: OpenVanilla
+ultimate: Epubor Ultimate
+red: Red Programming Language
+blockbench: Blockbench
+libreoffice: LibreOffice
+programmer-dvorak: Programmer Dvorak
+trolcommander: trolCommander
+publish-or-perish: Harzing Publish or Perish
+the-archive-browser: The Archive Browser
+idafree: IDA Free
+itunes-volume-control: iTunes Volume Control
+brackets: Brackets
+connectmenow: ConnectMeNow
+backlog: Backlog
+mplab-xc32: MPLab XC32 Compiler
+hubstaff: Hubstaff
+energia: Energia
+coinomi-wallet: Coinomi Wallet
+gzdoom: GZDoom
+beeper: Beeper
+quicklookase: QuickLookASE
+uu-booster: UU Booster
+sonic-lineup: Sonic Lineup
+wombat: Wombat
+gmvault: Gmvault
+videoduke: VideoDuke
+squirrelsql: SQuirrel SQL
+virtual-ii: Virtual ][
+gitahead: GitAhead
+kekaexternalhelper: Keka External Helper, KekaDefaultApp
+menumeters: MenuMeters for El Capitan (and later)
+weakauras-companion: WeakAuras Companion
+switch: Switch Audio Converter
+icc: International Chess Club
+fontgoggles: FontGoggles
+shuttle: Shuttle
+maccleaner-pro: Nektony MacCleaner Pro
+breaktimer: BreakTimer
+sqlworkbenchj: SQL Workbench/J
+clipy: Clipy
+taskwarrior-pomodoro: Taskwarrior-Pomodoro
+color-oracle: Color Oracle
+flying-carpet: Flying Carpet
+sengi: Sengi
+the-unofficial-homestuck-collection: The Unofficial Homestuck Collection
+epub-to-pdf: epub-2-pdf
+gimp: GIMP, GNU Image Manipulation Program
+around: Around
+shiori: Shiori
+armory: Armory
+ringcentral-meetings: RingCentral Meetings for Mac
+unity-windows-support-for-editor: Unity Windows (Mono) Build Support
+hermes: Hermes
+townwifi: TownWiFi
+nasas-eyes: NASA's Eyes
+manuskript: Manuskript
+ti-connect-ce: TI Connect™ CE
+muzzle: Muzzle
+kryoflux: KryoFlux
+ssdreporter-free: SSDReporter Free
+android-messages: Android Messages Desktop
+sfdx: Salesforce DX CLI
+unite: Unite
+mplab-xc16: MPLab XC16 Compiler
+thetimemachinemechanic: The Time Machine Mechanic, T2M2
+blender: Blender
+unpkg: unpkg
+idisplay: iDisplay
+datadog-agent: Datadog Agent
+dynalist: Dynalist
+roku-remote-tool: Roku Remote Tool
+dwarf-fortress-lmp: Dwarf Fortress LMP (Lazy Mac Pack)
+copyq: CopyQ
+sqlexplorer: Eclipse SQL Explorer
+unclack: Unclack
+widelands: Widelands
+rawtherapee: RawTherapee
+luxmark: LuxMark
+zeebe-modeler: Zeebe Modeler
+podpisuj: Podpisuj
+qqmacmgr: 腾讯电脑管家
+mmhmm: mmhmm
+password-gorilla: Password Gorilla
+recovery-disk-assistant: Recovery Disk Assistant
+navicat-data-modeler-essentials: Navicat Data Modeler Essentials
+megasync: MEGAsync
+twist: Twist
+propresenter: ProPresenter
+another-redis-desktop-manager: Another Redis Desktop Manager
+qblocker: QBlocker
+file-juicer: File Juicer
+clover-configurator: Clover Configurator
+coda: Panic Coda
+musescore: MuseScore
+renpy: Ren'Py
+overflow: Overflow
+vox-preferences-pane: VOX Preferences
+laverna: Laverna
+liteide: LiteIDE
+glance: Glance
+emailchemy: Emailchemy
+icefloor: IceFloor
+flrig: flrig
+gb-studio: GB Studio
+camed: CAM Editor
+millie: millie
+plex: Plex
+royal-tsx: Royal TSX
+dwihn0r-keepassx: KeePassX
+cool-retro-term: Cool Retro Term
+unity-android-support-for-editor: Unity Android Build Support
+finalshell: FinalShell
+foldingtext: FoldingText
+bricklink-partdesigner: PartDesigner
+autovolume: AutoVolume
+pref-setter: Pref Setter
+ajour: Ajour
+irccloud: IRCCloud Desktop
+ultracopier: ultracopier
+wing-personal: Wing Personal
+asset-catalog-tinkerer: Asset Catalog Tinkerer
+scratch: Scratch
+cryo: Cryo
+gitblade: GitBlade
+voicemac: VoiceMac
+cubicsdr: CubicSDR
+figmadaemon: Figma Font Installers
+nuclino: Nuclino
+istat-menus: iStats Menus
+wireshark-chmodbpf: Wireshark-ChmodBPF
+shadowsocksx: ShadowsocksX
+affinity-photo: Affinity Photo
+artpip: Artpip
+freedom: Freedom
+ramme: Ramme
+popsql: PopSQL
+banking-4: Banking 4
+uvtools: UVtools
+polycom-content: Polycom Content App
+xscreensaver: XScreenSaver
+vidl: ViDL for Mac
+pynsource: Pynsource
+subsync: subsync
+scout: Scout-App
+tuxguitar: TuxGuitar
+nanostudio: NanoStudio
+stellarium: Stellarium
+mic-drop: Mic Drop
+connectiq: Garmin Connect IQ SDK
+qq: QQ
+beatunes: beaTunes
+visualboyadvance-m: Visual Boy Advance - M
+yo: Yo Scheduler
+scrapp: Scrapp
+teamspeak-client: TeamSpeak Client
+burp-suite: Burp Suite Community Edition
+caffeine: Caffeine
+ampps: AMPPS
+ryver: Ryver
+rightfont: RightFont
+quarto: quarto
+4k-youtube-to-mp3: 4K YouTube to MP3
+stella: Stella
+goldencheetah: GoldenCheetah
+xattred: xattred
+olive: Olive
+angband: Angband
+mutesync: mütesync
+calendar-366: Calendar 366 II
+touchosc-bridge: TouchOSC Bridge
+shottr: Shottr
+amm: AMM
+stringz: Stringz
+gps4cam: gps4cam
+cron: Cron Calendar
+symboliclinker: SymbolicLinker
+cryptonomic-galleon: Galleon
+ark-desktop-wallet: Ark Desktop Wallet
+heaven: Heaven Benchmark
+craftmanager: CraftManager
+paperspace: Paperspace
+mymonero: MyMonero
+netron: Netron
+diagnostics: Diagnostics
+appstore-quickview: App...Store Quickview
+stretchly: Stretchly
+avibrazil-rdm: RDM
+morpheus: Morpheus
+guild-wars2: Guild Wars 2
+google-drive-file-stream: Google Drive File Stream
+vu: vu
+adapter: Adapter
+qlprettypatch: QLPrettyPatch
+gfxcardstatus: gfxCardStatus
+vorta: Vorta
+quicknfo: QuickNFO
+streamlink-twitch-gui: Streamlink Twitch GUI
+disk-expert: Disk Expert
+ringcentral: RingCentral
+virtualbox-extension-pack: Oracle VirtualBox Extension Pack
+icestudio: icestudio
+menuwhere: Menuwhere
+jollysfastvnc: JollysFastVNC
+ioquake3: ioquake3
+rescuetime: RescueTime
+smartreporter-free: SMARTReporter Free
+libreoffice-language-pack: LibreOffice Language Pack
+itunes-producer: iTunes Producer
+modern-csv: Modern CSV
+sigmaos: sigmaos
+knuff: Knuff
+resolume-arena: Resolume Arena
+mdrp: Mac DVDRipper Pro
+local: Local
+wxmacmolplt: wxMacMolPlt
+servpane: ServPane
+plotdigitizer: Plot Digitizer
+omnifocus: OmniFocus
+defold: Defold
+webstorm: WebStorm
+lookin: Lookin
+techsmith-capture: TechSmith Capture
+ableton-live-lite: Ableton Live Lite
+piezo: Piezo
+volley: Volley
+ui-browser: UI Browser
+webplotdigitizer: WebPlotDigitizer
+fontlab: Fontlab
+runway: Runway
+sneek: Sneek
+battery-report: Battery Report
+bitrix24: Bitrix24
+mongodb-compass-isolated-edition: MongoDB Compass Isolated
+packetproxy: PacketProxy
+torguard: TorGuard
+dcp-o-matic-batch-converter: DCP-o-matic Batch converter
+backblaze: Backblaze
+adobe-connect: Adobe Connect
+uncolored: (Un)colored
+telegram: Telegram for macOS
+microsoft-azure-storage-explorer: Microsoft Azure Storage Explorer
+sf-symbols: SF Symbols
+ferdi: Ferdi
+pokemon-showdown: Pokémon Showdown
+blackhole-64ch: BlackHole 64ch
+epic-games: Epic Games Launcher
+ibettercharge: iBetterCharge
+powershell: PowerShell
+sublime-text: Sublime Text
+appdelete: AppDelete
+timer: Timer
+ipepresenter: IpePresenter
+pdfify: PDFify
+macx-dvd-ripper-mac-free-edition: MacX DVD Ripper Mac Free Edition
+finereader: ABBYY FineReader Pro
+quicklook-json: quick look JSON
+findergo: FinderGo
+bitwig-studio: Bitwig Studio
+linear: Linear
+menubar-stats: MenuBar Stats
+roboform: RoboForm
+nordvpn: NordVPN
+doughnut: Doughnut
+beardedspice: BeardedSpice
+superslicer: SuperSlicer
+tableflip: TableFlip
+micro-snitch: Micro Snitch
+lingon-x: Lingon X
+mweb-pro: MWeb Pro
+coderunner: CodeRunner
+icons: Icons
+pensela: Pensela
+zeronet: ZeroNet
+lofi: Lofi
+betelguese: Betelguese
+electrumsv: ElectrumSV
+devonagent: DEVONagent Pro
+lighttable: Light Table
+google-earth-pro: Google Earth Pro
+dbvisualizer: DbVisualizer
+mqtt-explorer: MQTT Explorer
+privatevpn: PrivateVPN
+datweatherdoe: DatWeatherDoe
+tikz-editor: TikZ Editor
+freesmug-chromium: Chromium
+cloudapp: CloudApp
+thunder: Thunder, 迅雷
+memory-cleaner: Memory Cleaner
+time-out: Time Out
+cocoarestclient: CocoaRestClient
+maintenance: Maintenance
+clix: CLIX
+gifcapture: GifCapture
+alt-tab: AltTab
+lyricsx: LyricsX
+free-download-manager: Free Download Manager
+superduper: SuperDuper!
+lx-music: LX Music Assistant Desktop Edition, 洛雪音乐助手桌面版
+camerabag-photo: CameraBag
+invisiblix: invisibliX
+mixxx: Mixxx
+electron-cash: Electron Cash
+trainerroad: TrainerRoad
+grammarly-desktop: Grammarly Desktop
+geneious-prime: Geneious Prime
+nucleo: Nucleo
+tiles: Sempliva Tiles
+qmoji: qmoji
+alinof-timer: Alinof Timer
+archiver: Archiver
+whalebird: Whalebird
+thought-train: Thought Train
+xampp: XAMPP
+nosql-workbench: NoSQL Workbench
+backblaze-downloader: Backblaze Downloader
+fastmarks: Fastmarks
+android-studio: Android Studio
+1password: 1Password
+vip-access: Symantec VIP Access
+eme: EME
+xournal-plus-plus: Xournal++
+megazeux: MegaZeux
+mac2imgur: mac2imgur
+cura-lulzbot: Cura LulzBot Edition
+balance-lock: Balance Lock
+milkman: Milkman
+ransomwhere: RansomWhere
+sameboy: SameBoy
+xcodes: Xcodes
+youtube-to-mp3: MediaHuman YouTube to MP3 Converter
+gotomeeting: GoToMeeting
+dmm-player: DMM Player
+accordance: Accordance Bible Software
+turbovnc-viewer: TurboVNC
+lastfm: Last.fm Scrobbler
+appgate-sdp-client: AppGate SDP Client for macOS
+nativedisplaybrightness: NativeDisplayBrightness
+calcservice: CalcService
+vitamin-r: Vitamin-R
+dictunifier: DictUnifier
+tinkerwell: Tinkerwell
+couleurs: Couleurs
+hdrmerge: HDRMerge
+lycheeslicer: Lychee Slicer
+listen1: Listen 1
+historyhound: HistoryHound
+mathcha-notebook: Mathcha Notebook
+flirc: Flirc
+iina-plus: IINA+
+openzfs: OpenZFS on OS X
+ableton-live-intro: Ableton Live Intro
+sitala: Sitala
+lepton: Lepton
+image2icon: Image2Icon
+bot-framework-emulator: Microsoft Bot Framework Emulator
+todour: Todour
+google-drive: Google Drive
+mjml: MJML
+easyeda: EasyEDA
+memo: Memo
+keycombiner: keycombiner
+hiarcs-chess-explorer: (Deep) HIARCS Chess Explorer
+amadeus-pro: Amadeus Pro
+kindle-comic-creator: Kindle Comic Creator
+openshot-video-editor: OpenShot Video Editor
+epichrome: Epichrome
+dropshare: Dropshare
+opera-neon: Opera Neon
+zenmap: Zenmap
+graphsketcher: GraphSketcher
+xamarin-mac: Xamarin Mac
+linear-linear: Linear
+jietu: Jietu, 截图
+desmume: DeSmuME
+qlstephen: QLStephen
+kakapo: Kakapo
+thor: Thor
+siyuan: SiYuan
+deltachat: DeltaChat
+ammonite: Ammonite
+krita: Krita
+paragon-vmdk-mounter: Paragon VMDK Mounter
+coarchi: coArchi plugin for Archi
+runjs: RunJS
+contraste: Contraste
+coolterm: CoolTerm
+geotag: GeoTag
+yandex-disk: Yandex.Disk
+etrecheckpro: EtreCheck
+flexiglass: Flexiglass
+cmake: CMake
+ubersicht: Übersicht
+kdrive: kDrive
+envkey: EnvKey
+unipro-ugene: Ugene
+mps: JetBrains MPS
+tripmode: TripMode
+vrew: vrew
+navicat-for-sql-server: Navicat for SQL Server
+openaudible: OpenAudible
+adobe-creative-cloud-cleaner-tool: Adobe Creative Cloud Cleaner Tool
+shield: Shield
+vial: Vial
+isteg: iSteg
+removebg: remove.bg
+franz: Franz
+zebra2: Zebra2
+remotehamradio: RemoteHamRadio
+reflector: Reflector
+bluetility: Bluetility
+bria: Bria
+drop-to-gif: Drop to GIF
+vpn-tracker-365: VPN Tracker 365
+tex-live-utility: TeX Live Utility
+vnc-viewer: Real VNC Viewer
+install-disk-creator: Install Disk Creator
+themeengine: ThemeEngine
+license-control-center: eLicenser Control Center
+splashtop-streamer: Splashtop Streamer
+stork: Stork for macOS
+ssh-tunnel-manager: SSH Tunnel Manager
+clock-bar: Clock Bar
+minecraftpe: Minecraft Education Edition
+qr-journal: QR Journal
+adobe-acrobat-pro: Adobe Acrobat Pro DC
+epoccam: EpocCam
+mullvadvpn: Mullvad VPN
+chronosync: ChronoSync
+multi: Multi
+munki: Munki
+prezi-next: Prezi Next
+querious: Querious 3
+iglance: iGlance
+shadowsocksx-ng-r: ShadowsocksX-NG-R
+flickr-uploadr: Flickr Uploadr
+kubecontext: KubeContext
+ethereum-wallet: Ethereum Wallet, Mist
+boxer: Boxer
+teamviewer-host: TeamViewer Host
+smlnj: Standard ML of New Jersey
+yuque: Yuque, 语雀
+gureumkim: 구름 입력기
+ibabel: iBabel
+ltspice: LTspice
+airtable: Airtable
+jamf-migrator: JamfMigrator
+macloggerdx: MacLoggerDX
+corelocationcli: Core Location CLI
+hma-pro-vpn: HMA! Pro VPN, HideMyAss! Pro VPN
+oxygen-xml-editor: oXygen XML Editor
+oscar: OSCAR
+xamarin-studio: Xamarin Studio
+solvespace: SolveSpace
+wondershare-edrawmax: EdrawMax
+ninja-download-manager-ndm: Ninja Download Manager
+browserosaurus: Browserosaurus
+framer-x: Framer X
+blockstack: Blockstack
+librewolf: LibreWolf
+sqlectron: Sqlectron
+iconscout: Iconscout
+amd-power-gadget: AMD Power Gadget
+discord: Discord
+qldds: QuickLook DDS
+jump-desktop-connect: Jump Desktop Connect
+qv2ray: Qv2ray
+filemon: File Monitor
+swift-publisher: Swift Publisher
+splayer: SPlayer
+optimage: Optimage
+duet: Duet
+shrinkit: ShrinkIt
+spaceradar: SpaceRadar
+vcv-rack: VCV Rack
+quip: Quip
+renamer: Renamer
+cloudash: cloudash
+polkadot-js: polkadot{.js}
+zwift: Zwift
+omnidazzle: OmniDazzle
+onyx: OnyX
+classicftp: ClassicFTP
+toptracker: TopTracker
+fig: fig
+devkinsta: DevKinsta
+radar: Radar
+photozoom-pro: PhotoZoom Pro
+mouse-fix: Mouse Fix
+mission-control-plus: Mission Control Plus
+gns3: GNS3, Graphical Network Simulator 3
+sequel-pro: Sequel Pro
+icollections: iCollections
+plasticscm-cloud-edition: PlasicSCM - a Cloud Edition
+night-owl: NightOwl, YoruFukurou
+hydrus-network: hydrus-network
+nwjs: NW.js
+hedgewars: Hedgewars
+energybar: EnergyBar
+fing: Fing Desktop
+fastscripts: FastScripts
+macjournal: MacJournal
+mailspring: Mailspring
+dyalog: Dyalog APL
+music-bar: Music Bar
+macgdbp: MacGDBp
+butt: Broadcast Using This Tool
+prezi-classic: Prezi Classic
+retroarch: RetroArch
+goland: Goland
+zerotier-one: ZeroTier One
+elpass: Elpass
+microsoft-teams: Microsoft Teams
+algodoo: Algodoo
+badlion-client: Badlion Client
+wiznote: WizNote
+swiftstack-client: SwiftStack GUI Client
+turbo-boost-switcher: Turbo Boost Switcher
+not-tetris: Not Tetris
+flomo: flomo
+vlc-setup: VLC Remote Setup Helper
+displaperture: Displaperture
+manictime: ManicTime
+nifty: Nifty
+jaikoz: Jaikoz
+cord: CoRD
+bluestacks: BlueStacks
+webpquicklook: WebPQuickLook
+netiquette: Netiquette
+mikogo: Mikogo
+mailtrackerblocker: MailTrackerBlocker
+avogadro: Avogadro
+expressions: Expressions
+tweeten: Tweeten
+gearboy: Gearboy
+appflowy: appflowy
+nvalt: nvALT
+tv-browser: TV-Browser
+butter: Butter
+focusatwill: Focus@Will
+seashore: Seashore
+quaternion: Quaternion
+macgesture: MacGesture
+drivedx: DriveDX
+qlcolorcode: QLColorCode
+textexpander: TextExpander
+devutils: DevUtils
+tigerjython: TigerJython
+softraid: SoftRAID
+miniforge: miniforge
+mattermost: Mattermost
+senuti: Senuti
+particle-dev: Particle Dev
+marshallofsound-google-play-music-player: Google Play Music Desktop Player
+tunnelbear: TunnelBear
+quickboot: QuickBoot
+lark: Lark
+screenflow: ScreenFlow
+publii: Publii
+textsniper: textsniper
+cyberduck: Cyberduck
+wail: WAIL
+ivideonserver: Ivideon Client
+dia: Dia
+controllermate: ControllerMate
+send-to-kindle: Send to Kindle
+cakebrewjs: cakebrewjs
+sqlitemanager: SQLiteManager
+virtualhereserver: VirtualHereServer
+decloner: Decloner
+abscissa: Abscissa
+clickcharts: ClickCharts
+touch-bar-simulator: Touch Bar Simulator
+skychart: SkyChart, Cartes du Ciel
+ip-in-menu-bar: IP in menu bar
+sleek: sleek
+4k-video-to-mp3: 4K Video to MP3
+disk-diet: Disk Diet
+grandtotal: GrandTotal
+zappy: Zappy
+satellite-eyes: Satellite Eyes
+bossa: bossa
+dogecoin: Dogecoin
+spotmenu: SpotMenu
+dcp-o-matic-kdm-creator: DCP-o-matic KDM Creator
+bluewallet: BlueWallet
+boop: Boop
+northernspysoftware-colorpicker: ColorPicker
+patchwork: Patchwork
+morkro-papyrus: Papyrus
+stack-exchange-notifier: Stack Exchange Notifier
+nordlocker: NordLocker
+bluefish: Bluefish
+keep: Keep
+freecad: FreeCAD
+airbuddy: AirBuddy
+keyboardholder: KeyboardHolder
+plex-media-player: Plex Media Player
+taskpaper: TaskPaper
+isimulator: iSimulator
+apache-couchdb: Apache CouchDB
+keyboard-cleaner: Keyboard Cleaner
+v2rayx: V2RayX
+brook: Brook
+atlauncher: ATLauncher
+chalk: Chalk
+openlp: OpenLP
+losslesscut: LosslessCut
+wireshark: Wireshark
+owncloud: ownCloud
+babeledit: BabelEdit
+netdownloadhelpercoapp: Video DownloadHelper Companion App
+qlcommonmark: QLCommonMark
+breitbandmessung: Breitbandmessung
+tap-forms: Tap Forms 5
+tidelift: Tidelift CLI
+localizationeditor: LocalizationEditor
+internxt-drive: Internxt Drive
+surge-synthesizer: Surge
+switchresx: SwitchResX
+dynamodb-local: Amazon DynamoDB Local
+tip: Tip
+pyfa: pyfa
+gridtracker: GridTracker
+vmware-fusion: VMware Fusion
+mactex: MacTeX
+mapture: Mapture
+camo-studio: Camo Studio
+macx-video-converter-pro: MacX Video Converter Pro
+drawbot: DrawBot
+multitouch: Multitouch
+volanta: Volanta
+bdinfo: BDInfo
+far2l: far2l
+smoothscroll: SmoothScroll
+monitorcontrol: MonitorControl
+fork: Fork
+time-lapse-assembler: Time Lapse Assembler
+beaker-browser: Beaker Browser, Beaker
+horndis: HoRNDIS
+piskel: Piskel
+navicat-for-sqlite: Navicat for SQLite
+get-lyrical: Get Lyrical
+moose: moose
+betterdummy: betterdummy
+go-server: Go Server, GoCD Server
+vysor: Vysor
+enfusegui: EnfuseGUI
+kawa: Kawa
+outline-manager: Outline Manager
+typeface: Typeface
+lando: Lando
+nautilus: Nautilus
+papers: ReadCube Papers
+mojibar: Mojibar
+timely: Timely
+komodo-ide: Komodo IDE
+brewlet: Brewlet
+duplicate-file-finder: Duplicate File Finder
+synergy: Synergy
+ipa-manager: IPA Palette
+telegram-desktop: Telegram Desktop
+abricotine: abricotine
+aviatrix-vpn-client: Aviatrix VPN Client
+astah-professional: Change Vision Astah Professional
+spamsieve: SpamSieve
+pashua: Pashua
+toontown-rewritten: Toontown Rewritten, Toontown Launcher
+barrier: Barrier
+simplediagrams: SimpleDiagrams
+freeplane: Freeplane
+jedit-omega: Jedit Ω
+openmtp: OpenMTP
+clock: Clock
+smultron: Smultron
+principle: Principle
+sekey: SeKey
+openvpn-connect: OpenVPN Connect client
+qlimagesize: qlImageSize
+dcp-o-matic: DCP-o-matic
+silicon: Silicon
+laravel-kit: Laravel Kit
+rclone-browser: Rclone Browser
+cyberghost-vpn: CyberGhost
+beyond-compare: Beyond Compare
+mxsrvs: MxSrvs
+ios-app-signer: iOS App Signer
+scroll: Scroll
+mds: MDS
+midikeys: MidiKeys
+webots: Cyberbotics Webots Robot Simulator, Webots
+subgit: SubGit
+owasp-zap: OWASP Zed Attack Proxy, ZAP
+lacona: Lacona
+xit: Xit
+direqual: DirEqual
+vagrant-manager: Vagrant Manager
+fabfilter-volcano: FabFilter Volcano
+pdfpen: PDFpen
+signal: Signal
+nutstore: Nutstore
+resilio-sync: Resilio Sync
+qth: QTH
+firefox: Mozilla Firefox
+xnconvert: XnSoft XnConvert
+wolai: wolai for mac
+neofinder: NeoFinder
+eudic: Eudic, 欧路词典
+the-battle-for-wesnoth: The Battle for Wesnoth
+surfeasy-vpn: SurfEasy VPN
+iina: IINA
+parsify: Parsify
+plexamp: Plexamp
+tabula: Tabula
+deskreen: Deskreen
+adobe-acrobat-reader: Adobe Acrobat Reader DC
+golly: Golly
+command-tab-plus: Command-Tab Plus
+strawberry: Strawberry
+alloy: Alloy
+freecol: FreeCol
+molotov: Molotov
+burp-suite-professional: Burp Suite Professional
+quitter: Quitter
+cljstyle: cljstyle
+ankama: Ankama Launcher
+zterm: ZTerm
+eclipse-testing: Eclipse for Testers
+bleunlock: BLEUnlock
+strawberry-wallpaper: Strawberry Wallpaper
+scidvsmac: Scid vs. Mac
+pichon: Pichon
+miditrail: MIDITrail
+timche-gmail-desktop: Gmail Desktop
+runelite: RuneLite
+tiled: Tiled
+codelite: CodeLite
+pomodone: PomoDone
+dropzone: Dropzone
+minitube: Minitube
+radarr: Radarr
+browserstacklocal: BrowserStack Local Testing
+microsoft-office: Microsoft Office
+djv: DJV Imaging
+adguard: AdGuard
+simplesynth: SimpleSynth
+qnapi: QNapi
+delicious-library: Delicious Library
+zalo: Zalo
+usr-sse2-rdm: RDM
+arq-cloud-backup: Arq Cloud Backup
+flameshot: Flameshot
+isyncer: iSyncer
+path-finder: Path Finder
+ballast: ballast
+microsoft-edge: Microsoft Edge
+moebius: Moebius
+parsec: Parsec
+metaimage: MetaImage
+dbglass: DBGlass
+bome-network: Bome Network
+outset: outset
+spatterlight: Spatterlight
+winds: Winds
+kstars: KStars
+nosqlbooster-for-mongodb: NoSQLBooster for MongoDB
+rotki: Rotki
+alipay-development-assistant: Alipay Development Assistant
+macmediakeyforwarder: Mac Media Key Forwarder
+ansible-dk: Ansible DK, Ansible Development Kit
+metasploit: Metasploit Framework
+portx: portx
+google-web-designer: Google Web Designer
+rancher: Rancher Desktop
+screencast: Screencast
+hyperswitch: HyperSwitch
+markright: MarkRight
+post-haste: Post Haste
+semeru-jdk-open: IBM Semeru Runtime (JDK) Open Edition
+missive: Missive
+rhino: Rhinoceros
+surfshark: Surfshark
+istat-server: iStat Server
+classroom-mode-for-minecraft: Classroom Mode for Minecraft
+ipynb-quicklook: ipynb-quicklook
+sketchbook: Autodesk Sketchbook
+lumen: Lumen
+iriunwebcam: Iriun
+electorrent: Electorrent
+atomic-wallet: Atomic Wallet
+opentoonz: OpenToonz
+gargoyle: Gargoyle
+pflists: PFLists
+joinme: join.me
+dungeon-crawl-stone-soup-tiles: Dungeon Crawl Stone Soup
+creality-slicer: Creality Slicer
+ptpwebcam: ptpwebcam
+4k-slideshow-maker: 4K Slideshow Maker
+minecraft-server: Minecraft Server
+servo: Servo
+speedcrunch: SpeedCrunch
+milkytracker: MilkyTracker
+nimbus: Nimbus
+macbreakz: MacBreakZ
+sonic-robo-blast-2: Sonic Robo Blast 2
+onionshare: OnionShare
+bartender: Bartender
+epilogue-operator: Epilogue Operator
+repoz: RepoZ
+boostnote: Boostnote
+ananas-analytics-desktop-edition: Ananas Analytics Desktop Edition
+navicat-for-mariadb: Navicat for MariaDB
+vox: VOX
+uncrustifyx: UncrustifyX
+m3unify: M3Unify
+keepassx: KeePassX
+nzbget: NZBGet
+clash-for-windows: Clash for Windows
+navicat-for-postgresql: Navicat for PostgreSQL
+google-trends: Google Trends Screensaver
+mob: Mob
+sage: Sage
+sensei: Sensei
+default-folder-x: Default Folder X
+apple-events: Apple Events
+batteries: Batteries
+eclipse-platform: Eclipse SDK
+google-chrome: Google Chrome
+hyperbackupexplorer: HyperBackupExplorer
+knock: Knock
+ricochet: Ricochet
+kodi: Kodi
+ocenaudio: ocenaudio
+forecast: Forecast
+chatology: Chatology
+expo-xde: Expo Development Environment (XDE)
+opendnsupdater: OpenDNS Updater
+cave-story: Pixel Cave Story, Doukutsu, 洞窟物語
+continuity-activation-tool: Continuity Activation Tool
+zesarux: ZEsarUX
+replacicon: Replacicon
+garagesale: GarageSale
+hightop: HighTop
+postico: Postico
+sidequest: SideQuest
+azure-data-studio: Azure Data Studio
+webcamoid: Webcamoid
+gitify: Gitify
+cisco-proximity: Cisco Proximity
+aexol-remote-mouse: Aexol Remote Mouse
+aquaskk: AquaSKK
+chatty: Chatty
+spires: spires
+macgamestore: MacGameStore
+maciasl: MaciASL
+orca: Orca
+deviceinfo: DeviceInfo
+chrysalis: Chrysalis
+dropdmg: DropDMG
+time-tracker: TimeTracker
+xquartz: XQuartz
+zoho-workdrive: Zoho WorkDrive
+dingtalk: DingTalk, 钉钉
+schildichat: SchildiChat
+google-analytics-opt-out: Google Analytics Opt Out
+youtube-downloader: YouTube Downloader
+pikopixel: PikoPixel
+hyper: Hyper
+charlessoft-timetracker: TimeTracker
+sdrdx: SdrDx
+banksiagui: BanksiaGui
+osmc: OSMC
+qfinder-pro: Qnap Qfinder Pro
+subtitles: Subtitles
+quakespasm: QuakeSpasm
+idrive: iDrive
+android-platform-tools: Android SDK Platform-Tools
+oracle-jdk-javadoc: Oracle Java Standard Edition Development Kit Documentation
+ckb-next: ckb-next
+receipts: Receipts
+subethaedit: SubEthaEdit
+drovio: Drovio
+soundtoys: Soundtoys
+zettlr: Zettlr
+sessionrestore: SessionRestore
+optimus-player: Optimus Player
+gitpigeon: GitPigeon
+outguess: Outguess
+dictater: Dictater
+checkra1n: checkra1n
+simtoolkitpro: SimToolkitPro
+mamp: MAMP
+sauerbraten: Cube 2: Sauerbraten
+tusk: Tusk
+chromedriver: ChromeDriver
+teacode: TeaCode
+find-empty-folders: Find Empty Folders
+cacher: Cacher
+wireframe-sketcher: WireframeSketcher
+datagrip: DataGrip
+doubletwist: doubleTwist
+softmaker-freeoffice: SoftMaker FreeOffice
+pokerstars: PokerStars
+conferences: Conferences.digital
+dashcam-viewer: Dashcam Viewer, Dashcam Viewer by Earthshine Software
+fbreader: FBReader
+opera-gx: Opera GX
+teensy: Teensy
+favro: Favro
+free42-binary: Free42 Binary
+dat: Dat Desktop
+pine: Pine
+sublercli: SublerCLI
+musicbrainz-picard: MusicBrainz Picard
+speedify: Speedify
+termius: Termius
+anki: Anki
+tunein: TuneIn
+nestopia: Nestopia
+snappy: Snappy
+catlight: catlight
+gitkraken: GitKraken
+league-of-legends: League of Legends
+helo: HELO
+netxms-console: NetXMS Management Console
+multifirefox: MultiFirefox
+yoda: Yoda
+atok: ATOK
+hyperkey: Hyperkey
+menubar-countdown: Menubar Countdown
+captain: Captain
+shupapan: Shupapan
+grids: Grids
+iswiff: iSwiff
+syncsettings: SyncSettings
+dolphin: Dolphin
+alfaview: Alfaview
+soundcleod: SoundCleod
+cisdem-pdfmanagerultimate: Cisdem PDFManagerUltimate
+final-cut-library-manager: Arctic Whiteness Final Cut Library Manager, FCPX Library Manager
+sqlitestudio: SQLiteStudio
+google-japanese-ime: Google Japanese Input Method Editor
+photosync: PhotoSync Companion
+natron: Natron
+easy-move-plus-resize: Easy Move+Resize
+macdropany: MacDropAny
+bit-fiddle: Bit Fiddle
+librecad: LibreCAD
+daisydisk: DaisyDisk
+topnotch: topnotch
+aria-maestosa: Aria Maestosa
+mousepose: Mouseposé
+cutesdr: CuteSDR
+shapes: Shapes
+houdahspot: HoudahSpot
+airflow: Airflow
+rember: Rember
+force-paste: Force Paste
+p4: Perforce Helix Command-Line Client (P4)
+prepros: Prepros
+textbar: TextBar
+jclasslib-bytecode-viewer: jclasslib bytecode viewer
+kindle-comic-converter: Kindle Comic Converter, KCC
+nally: Nally
+a-better-finder-rename: A Better Finder Rename
+prisma-studio: Prisma Studio
+vidyo: Vidyo
+sysex-librarian: SysEx Librarian
+pdf-reader-pro: PDF Reader Pro
+quicklookapk: QuickLookAPK
+spaceman: Spaceman
+colortester: ColorTester
+xaos: GNU XaoS
+sqlpro-for-mysql: SQLPro for MySQL
+visit: VisIt
+udeler: Udeler
+easytether: EasyTether
+tinymediamanager: tinyMediaManager
+kicad: KiCad
+home-assistant: Home Assistant
+sauce-connect: Sauce Connect
+qlplayground: qlplayground
+noisytyper: Noisy Typer
+electronmail: ElectronMail
+anylist: AnyList
+extraterm: extraterm
+supercollider: SuperCollider
+gcs: gcs
+battery-buddy: Battery Buddy
+oolite: oolite
+squeak: Squeak
+race-into-space: Race Into Space
+spotter: Spotter
+n1ghtshade: n1ghtshade
+whatroute: WhatRoute
+authy: Authy Desktop
+data-integration: Pentaho Data Integration
+farrago: Farrago
+supersync: SuperSync
+jd-gui: JD-GUI
+memory: Memory Tracker by Timely
+oryoki: Oryoki, Ōryōki, 応量器
+app-tamer: AppTamer
+aerial: Aerial Screensaver
+sonic-robo-blast-2-kart: Sonic Robo Blast 2 Kart
+keyboard-lock: Keyboard Lock
+deco: Deco
+key-codes: Key Codes
+tuneinstructor: Tune•Instructor
+motrix: Motrix
+proxifier: Proxifier
+waltr: WALTR
+alchemy: Alchemy
+freenettray: Freenet
+ditto: Ditto
+website-watchman: Website Watchman
+macfusion-ng: Macfusion
+sip: Sip
+orange: Orange
+adium: Adium
+yesplaymusic: YesPlayMusic
+openra: OpenRA
+coscreen: CoScreen
+bookmacster: BookMacster
+yippy: Yippy
+git-it: Git-it
+pathephone: Pathephone
+youdaonote: YoudaoNote, 有道云笔记
+altserver: AltServer
+vin047-abgx360: vin047-abgx360
+tabtopus: TabTopus
+ev3-classroom: EV3 Classroom
+movist-pro: Movist Pro
+openframeworks: Openframeworks
+mgba: mGBA
+asana: Asana
+simplenote: Simplenote
+pages-data-merge: Pages Data Merge
+sapmachine-jdk: SapMachine OpenJDK Development Kit
+mp3gain-express: MP3Gain Express
+open-in-code: OpenInCode
+veusz: Veusz
+shortcuts: Restart/Sleep/Logout/Shutdown/Lock Shortcuts
+omnioutliner: OmniOutliner
+xca: XCA
+airy: Airy
+trilium-notes: Trilium Notes
+choosy: Choosy
+leap-motion: Leap Motion
+trader-workstation: Trader Workstation
+cscreen: cscreen
+sabaki: Sabaki
+pingmenu: PingMenu
+qview: qView
+quickwords: Quickwords
+j: J
+meld: Meld for OSX
+securesafe: SecureSafe
+hyperdock: HyperDock
+thonny-xxl: Thonny (XXL bundle)
+pngyu: Pngyu
+free42-decimal: Free42 Decimal
+stand: Stand
+sigdigger: SigDigger
+flutter: Flutter SDK
+aladin: Aladin Desktop
+isubtitle: iSubtitle
+mimecast: Mimecast for Mac
+fuwari: Fuwari
+cabal: Cabal
+menutube: MenuTube
+nightingale: Nightingale
+quicksilver: Quicksilver
+firebase-admin: Firebase Admin
+nightowl: NightOwl
+flash-decompiler-trillix: Flash Decompiler Trillix
+th-makerx: Th-MakerX
+window-switch: Window Switch
+yt-music: YouTube Music
+shadowsocksx-ng: ShadowsocksX-NG
+mplabx-ide: MPLab X IDE
+edex-ui: eDEX-UI
+malus: Malus
+010-editor: 010 Editor
+zettelkasten: Zettelkasten
+scansion: scansion
+xmind-zen: XMind
+preference-manager: Preference Manager
+magiccap: MagicCap
+bluej: BlueJ
+roaringapps: RoaringApps
+awa: AWA
+enjoyable: Enjoyable
+uxprotect: UXProtect
+fantasy-grounds: Fantasy Grounds
+touchbarserver: TouchBarServer
+mounty: Mounty for NTFS
+hopper-debugger-server: Hopper Debugger Server
+qcma: Qcma
+raindropio: Raindrop.io
+metabase: Metabase
+scala-ide: Scala IDE
+gitfox: Gitfox
+geomap: GeoMapApp
+dockmate: Dock Mate
+amazon-workdocs: Amazon WorkDocs
+provisionql: ProvisionQL
+hackmd: HackMD
+blockblock: BlockBlock
+pomotodo: Pomododo
+now-tv-player: NOW TV Player
+inform: Inform
+vsee: VSee
+pennywise: Pennywise
+virtualgl: VirtualGL
+whatsapp: WhatsApp
+hermit-crab: Hermit Crab
+r: R
+crushftp: CrushFTP
+gameranger: GameRanger
+opencore-configurator: OpenCore Configurator
+tabby: Tabby, Terminus
+day-o: Day-O
+usbimager: USBImager
+dbeaver-enterprise: DBeaver Enterprise Edition
+quicklook-csv: QuickLookCSV
+mochi: Mochi
+omniplan: OmniPlan
+cerebro: Cerebro
+fake: Fake
+vine-server: Vine Server
+avidcodecsle: Avid Codecs LE
+topcat: TOPCAT
+xpra: Xpra
+bfxr: Bfxr
+deckset: Deckset
+ripme: RipMe
+gotiengviet: GoTiengViet
+fontbase: FontBase
+iridium: Iridium Browser
+nanosaur: Nanosaur
+via: VIA
+dbeaver-community: DBeaver Community Edition
+ultdata: UltData
+pulse-sms: Pulse SMS
+eddie: Air VPN, Eddie
+8x8-work: 8x8_work
+bean: Bean
+cocktail: Cocktail
+assinador-serpro: Assinador Serpro
+wwdc: WWDC
+panwriter: PanWriter
+tinderbox: Tinderbox
+banshee: Banshee
+tibco-jaspersoft-studio: TIBCO Jaspersoft Studio
+textual: Textual
+zdoom: ZDoom
+kapow: Kapow
+osirix-quicklook: OsiriX DICOM QuickLook
+silo: Silo
+localdev: Localdev
+zoom: Zoom.us
+lidarr: Lidarr
+mattr-slate: Slate
+isabelle: Isabelle
+ngrok: ngrok
+setapp: Setapp
+vscodium: VSCodium
+commandq: CommandQ
+mediathekview: MediathekView
+mumu: Mumu
+infinity: Infinity
+phonegap: PhoneGap
+detexify: Detexify
+electerm: electerm
+handyprintpro: handyPrintPRO
+xoctave: Xoctave
+keysmith: Keysmith
+apppolice: AppPolice
+vagrant-vmware-utility: Vagrant VMware Utility
+tweet-tray: Tweet Tray
+blitz: Blitz
+fiji: Fiji
+ibackup: iBackup
+duo-connect: DuoConnect
+mendeley: Mendeley Desktop
+name-mangler: Name Mangler
+sherlock: Sherlock
+cashnotify: CashNotify
+prey: Prey
+ibackupbot: iBackupBot
+touch-portal: Touch Portal
+androidtool: AndroidTool
+mcbopomofo: McBopomofo
+focused: Focused
+fabfilter-twin: FabFilter Twin
+safeincloud-password-manager: SafeInCloud Password Manager
+epic: Epic Privacy Browser
+cursorcerer: Cursorcerer
+icq: ICQ
+solar2d: Solar2D
+clover: Clover
+stepmania: StepMania
+nomad: NoMAD
+expressscribe: Express Scribe Transcription Software
+gmail-notifier: Gmail Notifier
+1clipboard: 1Clipboard
+manico: Manico
+jellyfin-media-player: jellyfin-media-player
+openarena: OpenArena
+texshop: TeXShop
+slite: Slite
+gpodder: gPodder
+forklift: ForkLift
+remember-the-milk: Remember The Milk
+rsyncosx: RsyncOSX
+xampp-vm: XAMPP-VM
+transocks: Transocks
+ilya-birman-typography-layout: Ilya Birman Typography Layout
+psi: Psi
+firefly: Firefly
+devilutionx: DevilutionX
+shellhere: ShellHere
+rightzoom: Right Zoom
+curio: Curio
+astropad: Astropad
+texstudio: TeXstudio
+gitfiend: GitFiend
+league-displays: League Displays
+gqrx: Gqrx
+fabfilter-timeless: FabFilter Timeless
+pacifist: Pacifist
+altdeploy: AltDeploy
+omnigraffle: OmniGraffle
+banktivity: Banktivity
+guilded: Guilded
+voov-meeting: VooV Meeting, Tencent Meeting International Version
+prosys-opc-ua-browser: Prosys OPC UA Browser
+smartsynchronize: SmartSynchronize
+protege: Protégé
+michaelvillar-timer: Timer
+waves-central: Waves Central
+applepi-baker: ApplePi-Baker
+vidrio: Vidrio
+goofy: Goofy
+pencil: Pencil, The Pencil Project
+couchbase-server-enterprise: Couchbase Server
+spotifree: Spotifree
+mars: MARS
+aqua-data-studio: Aquafold Aqua Data Studio
+trailer: Trailer
+grandperspective: GrandPerspective
+pixelstick: PixelStick
+falcon-sql-client: Falcon SQL Client
+oversight: OverSight
+rocket-typist: Rocket Typist
+moneywiz: MoneyWiz
+boom-3d: Boom 3D
+epoch-flip-clock: Epoch Flip Clock Screensaver
+cpuinfo: cpuinfo
+gitx: GitX
+disk-inventory-x: Disk Inventory X
+veepn: VeePN
+lego-digital-designer: Lego Digital Designer
+vmpk: VMPK
+grammarly: Grammarly
+marta: Marta File Manager
+audiogridder-plugin: AudioGridder Plugin
+pusher: NWPusher
+fmail: FMail
+snipy: Snipy
+mkchromecast: mkchromecast
+diskmaker-x: DiskMaker X
+twine: Twine
+pulse: Pulse
+tuck: Tuck
+fedora-media-writer: Fedora Media Writer
+watchguard-mobile-vpn-with-ssl: WatchGuard Mobile VPN with SSL
+boxy-suite: Boxy Suite
+mplayer-osx-extended: MPlayer OSX Extended
+preform: PreForm
+mediainfo: MediaInfo
+fl-studio: FL Studio
+vk-messenger: VK Messenger
+dashlane: Dashlane
+xstation5: xStation5
+nvidia-geforce-now: NVIDIA GeForce NOW
+scilab: Scilab
+blu-ray-player-pro: Macgo Mac Blu-ray Player Pro
+blobsaver: blobsaver
+waterfox: Waterfox
+koala: Koala
+mongodb-compass-readonly: MongoDB Compass Readonly
+second-life-viewer: Linden Lab Second Life Viewer
+geotag-photos-pro: Geotag Photos Pro
+svnx: svnX
+middle: Middle
+bunch: Bunch
+synalyze-it-pro: Synalyze It! Pro
+pwnagetool: PwnageTool
+textbuddy: TextBuddy
+openbazaar: OpenBazaar2
+tidgi: TidGi
+chatterino: Chatterino
+dockey: dockey
+uninstallpkg: UninstallPKG
+bricksmith: Bricksmith
+angry-ip-scanner: Angry IP Scanner
+eclipse-dsl: Eclipse IDE for Java and DSL Developers
+after-dark-classic: After Dark Classic Set
+lego-mindstorms-ev3: Lego Mindstorms EV3 Home Edition
+memory-map: Memory-Map
+rubymine: RubyMine
+scap-workbench: scap-workbench
+routebuddy: RouteBuddy
+sunlogincontrol: SunloginControl, 向日葵控制端
+squirrel: Squirrel
+tigervnc-viewer: TigerVNC
+music-manager: Google Play Music Manager
+gingko: Gingko
+ubports-installer: ubports-installer
+cakebrew: Cakebrew
+clementine: Clementine
+sim-daltonism: Sim Daltonism
+unlox: Unlox
+airparrot: AirParrot
+xee: Xee³
+graphql-ide: GraphQL IDE
+gluemotion: GlueMotion
+espresso: Espresso
+spotspot: SpotSpot
+plain-clip: Plain Clip
+whale: Whale
+museeks: Museeks
+repetier-host: Repetier-Host
+tidal: TIDAL
+webviewscreensaver: WebViewScreenSaver
+freedome: F-Secure Freedome
+utterly: Utterly
+hookshot: Hookshot
+yed: yWorks yEd
+spark-ar-studio: Spark AR Studio
+logmein-hamachi: LogMeIn Hamachi
+inssider: inSSIDer
+tandem: Tandem
+baudline: baudline
+webarchiveextractor: Web Archive Extractor
+keycue: KeyCue
+kaku: Kaku
+copyclip: CopyClip
+duplicacy-web-edition: Duplicacy Web Edition
+autopkgr: AutoPkgr
+sync: Sync
+pb: PB for Desktop
+cmdtap: CmdTap
+godot: Godot Engine
+line-bot-designer: LINE Bot Designer
+wavebox: Wavebox
+darktable: darktable
+hype: Tumult Hype
+jabref: JabRef
+freeorion: FreeOrion
+7777: 7777
+macfuse: macFUSE
+machoexplorer: MachOExplorer
+mutify: Mutify
+sourcetree: Atlassian SourceTree
+vanilla: Vanilla
+mia-for-gmail: Mia for Gmail
+mater: Mater
+fetch: Fetch
+chatmate-for-facebook: ChatMate for Facebook
+trezor-bridge: TREZOR Bridge
+vmware-horizon-client: VMware Horizon Client
+media-converter: Media Converter
+zotero: Zotero
+witch: Witch
+controlplane: ControlPlane
+objectivesharpie: Objective Sharpie
+sqlpro-for-postgres: SQLPro for Postgres
+crosspack-avr: CrossPack
+4peaks: 4Peaks
+gltfquicklook: GLTFQuickLook
+5kplayer: 5KPlayer
+doomsday-engine: Doomsday Engine
+bilimini: bilimini
+automute: AutoMute
+yggdrasil: Yggdrasil
+osquery: osquery
+abstract: Abstract
+appium-inspector: Appium Inspector GUI
+bathyscaphe: BathyScaphe
+ealeksandrov-cd-to: cd_to
+pingid: PingID
+freac: fre:ac
+komodo-edit: Komodo Edit
+jiggler: Jiggler
+squidman: SquidMan
+archipelago: Archipelago
+debookee: Debookee
+geogebra: GeoGebra
+cornercal: CornerCal
+dropletmanager: DigitalOcean Droplets Manager
+leksah: Leksah
+jamkazam: JamKazam
+android-ndk: Android NDK
+foobar2000: foobar2000
+get-iplayer-automator: Get iPlayer Automator
+cernbox: CERNBox Client
+chemdoodle: ChemDoodle, ChemDoodle 2D
+adrive: Aliyundrive
+microsoft-outlook: Microsoft Outlook
+apptrap: AppTrap
+mixed-in-key: Mixed In Key
+rocks-n-diamonds: Rocks'n'Diamonds
+wannianli: WanNianLi
+vitalsource-bookshelf: VitalSource Bookshelf
+eul: eul
+subsurface: Subsurface
+flip4mac: Flip4Mac
+protonvpn: ProtonVPN
+bluesense: BlueSense
+password-assistant: Password Assistant
+weiyun: Weiyun
+melodics: Melodics
+macupdater: MacUpdater
+opera: Opera
+dwgsee: DWGSee
+alfred: Alfred
+loaf: Loaf
+duckietv: duckieTV
+openvisualtraceroute: OpenVisualTraceroute
+sonobus: SonoBus
+snapndrag: SnapNDrag
+pika: Pika
+greenfoot: Greenfoot
+flotato: Flotato
+ksnip: ksnip
+qqlive: QQLive, TencentVideo, 腾讯视频
+jbidwatcher: JBidwatcher
+imgotv: 芒果TV
+fastrawviewer: FastRawViewer
+tnefs-enough: TNEF's Enough
+birdfont: BirdFont
+vipriser: VipRiser
+sound-control: Sound Control
+audioscrobbler: Audioscrobbler
+nocturnal: Nocturnal
+padloc: Padloc
+beersmith: BeerSmith
+studio-3t: Studio 3T
+bugdom: Bugdom
+remote-desktop-manager-free: Remote Desktop Manager Free
+anaconda: Continuum Analytics Anaconda
+sonoair: SonoAir
+xamarin-profiler: Xamarin Profiler
+yinxiangbiji: Evernote, 印象笔记
+purei-play: Play!
+r-name: R-Name
+gcollazo-mongodb: MongoDB
+licecap: LICEcap
+baritone: Baritone
+charles: Charles
+triplecheese: Triple Cheese
+tofu: Tofu
+bettertouchtool: BetterTouchTool
+accurics: Accurics CLI
+openpht: OpenPHT
+virtualhostx: VirtualHostX
+pycharm: PyCharm, PyCharm Professional
+keyboard-maestro: Keyboard Maestro
+tastyworks: tastyworks
+googleappengine: Google App Engine
+launchbar: LaunchBar
+ios-console: iOS Console
+glimmerblocker: GlimmerBlocker
+airfoil: Airfoil
+nagstamon: Nagstamon
+sonic3air: Sonic 3 A.I.R.
+phantomjs: PhantomJS
+syncroom: SYNCROOM
+skim: Skim
+audius: Audius
+shiftit: ShiftIt
+agenda: Agenda
+subler: Subler
+openwebstart: OpenWebStart
+buildsettingextractor: BuildSettingExtractor
+powder: Powder Toy
+qt-design-studio: Qt Design Studio
+playback: Playback
+bdash: Bdash
+rar: RAR Archiver
+paragon-extfs: Paragon ExtFS
+audio-hijack: Audio Hijack
+unison: Unison
+waltr-pro: WALTR PRO
+finicky: Finicky
+awips-python: AWIPS Python
+yuna: Yuna
+blueharvest: BlueHarvest
+qlrest: QLRest
+fabfilter-simplon: FabFilter Simplon
+suuntodm5: Suunto DM5
+mellow: Mellow
+data-science-studio: Dataiku Data Science Studio
+signet: Signet
+abyssoft-teleport: teleport
+modmove: ModMove
+lens: Lens
+syntax-highlight: Syntax Highlight
+maestral: Maestral
+unexpectedly: Unexpectedly
+kindle-previewer: Kindle Previewer
+tableau: Tableau Desktop
+kubenav: kubenav
+cncnet: CnCNet: Classic Command & Conquer
+quodlibet: Quod Libet
+samsung-dex: Samsung DeX
+prizmo: Prizmo
+subtitle-master: Subtitle Master
+citrix-workspace: Citrix Workspace
+loading: Loading
+harbor: Harbor
+sofa-server: Sofa
+reunion: Reunion
+midi-router-client: Midi Router Client
+gitdock: GitDock
+recents: Recents
+jdk-mission-control: JDK Mission Control
+anka-build-cloud-controller-and-registry: Anka Build Cloud Controller & Registry
+djl-bench: djl-bench
+irpf2021: IRPF 2021
+redcine-x-pro: REDCINE-X PRO
+mysqlworkbench: MySQL Workbench
+youdaodict: YoudaoDict, 网易有道词典
+syncthing: Syncthing
+background-music: Background Music
+pycharm-ce: Jetbrains PyCharm Community Edition, PyCharm CE
+diskcatalogmaker: DiskCatalogMaker
+guppy: Guppy
+megax: MEGA, Molecular Evolutionary Genetics Analysis
+querypie: QueryPie
+macupdate: MacUpdate Desktop
+space-saver: Space Saver
+sia-ui: Sia-UI
+parallels-virtualization-sdk: Parallels Virtualization SDK
+pdf-toolbox: PDF Toolbox
+paletro: Paletro
+skitch: Skitch
+crescendo: Crescendo
+pdfelement: Wondershare PDFelement for Mac
+no-ip-duc: No-IP DUC
+empoche: Empoche
+pokemon-reborn: Pokemon Reborn
+proxyman: Proxyman
+permute: Permute
+mobirise: Mobirise
+wallpaper-wizard: Wallpaper Wizard
+minitimer: miniTimer
+marathon-infinity: Marathon Infinity
+wezterm: WezTerm
+singularity: Singularity Viewer
+kyokan-bob: Bob Wallet
+plan: Plan
+remotion: remotion
+impactor: Impactor
+anydesk: AnyDesk
+gather: Gather Town
+macx-youtube-downloader: MacX YouTube Downloader
+stremio: Stremio
+dupeguru: dupeGuru
+android-commandlinetools: Android SDK Command-line Tools
+aural: Aural Player
+tad: Tad
+shiba: Shiba
+yam-display: Yam Display
+pktriot: pktriot
+doteditor: DotEditor
+font-smoothing-adjuster: Font Smoothing Adjuster
+putio-adder: Put.IO Adder
+mari0: Mari0
+gogs: Go Git Service
+puzzles: Simon Tatham's Portable Puzzle Collection
+skypewebplugin: Skype Web Plugin
+opgg: OP.GG Desktop
+gitfinder: GitFinder
+quicksync: QuickSync
+auryo: Auryo
+duplicati: Duplicati
+pdf-images: PDF-Images
+scroll-reverser: Scroll Reverser
+isyncr: iSyncr Desktop
+max: Max
+valkyrie: Valkyrie
+baretorrent: baretorrent
+classroom-assistant: GitHub Classroom Assistant
+roon: Roon
+lunastudio: Luna Studio
+coccoc: Cốc Cốc
+secure-pipes: Secure Pipes
+snes9x: Snes9x
+couchpotato: CouchPotato
+rubymotion: RubyMotion
+stay: Stay
+firestormos: Phoenix Firestorm viewer for OpenSim
+freesurfer: FreeSurfer
+anka-virtualization: Anka Virtualization
+docker-toolbox: Docker Toolbox
+otto-matic: Otto Matic
+console: Console
+axure-rp: Axure RP
+securityspy: SecuritySpy
+radiant-player: Radiant Player
+zulip: Zulip
+the-clock: The Clock
+double-commander: Double Commander
+toggl-track: Toggl Track
+qudedup-extract-tool: Qnap QuDedup Extract Tool
+difffork: DiffFork
+cycling74-max: Cycling ‘74 Max, Ableton Max for Live
+tuple: Tuple
+soduto: Soduto
+shades: Shades
+magicavoxel: MagicaVoxel
+zeplin: Zeplin
+mate-translate: Mate Translate
+nzbvortex: NZBVortex
+streamlabs-obs: Streamlabs OBS
+rectangle-pro: Rectangle Pro
+logisim-evolution: Logisim Evolution
+platypus: Platypus
+pdf-over: PDF-Over
+slingplayer: Slingplayer Desktop
+mkvtoolnix: MKVToolNix
+keka: Keka
+machacha: MacHacha
+soapui: SmartBear SoapUI
+shortery: Shortery
+rekordbox: rekordbox
+timeular: Timeular
+openemu: OpenEmu
+dangerzone: Dangerzone
+leocad: LeoCAD
+mpeg-streamclip: MPEG Streamclip
+imo: Imo Messanger
+miniconda: Continuum Analytics Miniconda
+sqlcl: sqlcl
+mural: MURAL
+atlantis: Atlantis
+acslogo: ACSLogo
+sitebulb: Sitebulb
+sonic-visualiser: Sonic Visualiser
+cinco: Cinco
+tomighty: Tomighty
+dhs: Dylib Hijack Scanner
+intel-power-gadget: Intel Power Gadget
+kaleidoscope: Kaleidoscope
+calibre: calibre
+touchswitcher: TouchSwitcher
+xamarin-workbooks: Xamarin Workbooks
+activitywatch: ActivityWatch
+airtrash: airtrash
+ishowu: iShowU
+ithoughtsx: iThoughtsX
+holavpn: Hola VPN
+hotswitch: HotSwitch
+grid: Grid
+foxglove-studio: Foxglove Studio
+inkdrop: Inkdrop
+visual-paradigm: Visual Paradigm
+rocket-chat: Rocket.Chat
+xbar: xbar
+mtgaprotracker: MTGA Pro Tracker
