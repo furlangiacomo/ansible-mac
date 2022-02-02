@@ -50,9 +50,6 @@
       copy:
         src: ./files/code
         dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
-        owner: {{ lookup('env', 'USER') }}
-        group: admin        
-        mode: 0755
 
     - name: Check if .oh-my-zsh exists
       stat:
