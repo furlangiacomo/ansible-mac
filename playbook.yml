@@ -50,7 +50,7 @@
       copy:
         src: ./files/code
         dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
-        owner: giacomofurlan
+        owner: {{ lookup('env', 'USER') }}
         group: admin        
         mode: 0755
 
