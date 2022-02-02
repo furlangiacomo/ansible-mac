@@ -30,21 +30,21 @@
         update_homebrew: yes
       with_items:
         - adobe-acrobat-reader
-#        - docker
+        - docker
         - enpass
-#        - firefox
-#        - github
-#        - google-chrome
-#        - google-cloud-sdk
+        - firefox
+        - github
+        - google-chrome
+        - google-cloud-sdk
         - google-drive
         - microsoft-remote-desktop
-#        - notion
-#        - postman
-#        - spotify
-#        - telegram
-#        - visual-studio-code
-#        - whatsapp
-#        - zwift
+        - notion
+        - postman
+        - spotify
+        - telegram
+        - visual-studio-code
+        - whatsapp
+        - zwift
 
     - name: check code file 
       copy:
@@ -53,11 +53,6 @@
         owner: giacomofurlan
         group: admin        
         mode: 0755
-
-    - name: Check if .zshrc exists
-      stat:
-        path: /Users/{{ lookup('env', 'USER') }}/.zshrc
-      register: is_zshrc_present
 
     - name: Check if .oh-my-zsh exists
       stat:
@@ -76,7 +71,6 @@
         dest: /Users/{{ lookup('env', 'USER') }}/.zshrc
         owner: "{{ lookup('env', 'USER') }}"
         force: yes
-      when: not is_zshrc_present.stat.exists
 
     - name: change user shell to zsh
       become: true
