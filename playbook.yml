@@ -30,32 +30,59 @@
         update_homebrew: yes
       with_items:
         - adobe-acrobat-reader
-        - docker
+#        - docker
         - enpass
-        - firefox
-        - github
-        - google-chrome
+#        - firefox
+#        - github
+#        - google-chrome
+#        - google-cloud-sdk
         - google-drive
         - microsoft-remote-desktop
-        - notion
-        - postman
-        - spotify
-        - telegram
-        - visual-studio-code
-        - whatsapp
+#        - notion
+#        - postman
+#        - spotify
+#        - telegram
+#        - visual-studio-code
+#        - whatsapp
+#        - zwift
 
     - name: check code file 
       copy:
-        src: ./code
+        src: ./files/code
         dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
         owner: giacomofurlan
         group: admin        
         mode: 0755
 
-    - name: Install oh-my-zsh
-      command: sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-      args:
-        creates: "/Users/{{ lookup('env', 'USER') }}/.oh-my-zsh"
+    - name: Check if .zshrc exists
+      stat:
+        path: /Users/{{ lookup('env', 'USER') }}/.zshrc
+      register: is_zshrc_present
+
+    - name: Check if .oh-my-zsh exists
+      stat:
+        path: ~/.oh-my-zsh
+      register: is_oh_my_zsh_present
+
+    - name: Cloning  oh-my-zsh
+      git:
+        repo: https://github.com/ohmyzsh/ohmyzsh.git
+        dest: /Users/{{ lookup('env', 'USER') }}/.oh-my-zsh
+      when: not is_oh_my_zsh_present.stat.exists
+
+    - name: set zshrc
+      template:
+        src: ./files/zshrc
+        dest: /Users/{{ lookup('env', 'USER') }}/.zshrc
+        owner: "{{ lookup('env', 'USER') }}"
+        force: yes
+      when: not is_zshrc_present.stat.exists
+
+    - name: change user shell to zsh
+      become: true
+      user:
+        name: "{{ lookup('env', 'USER') }}"
+        shell: /usr/local/bin/zsh
 
     - name: Install VSCode extensions
       shell: code --install-extension {{ item }}
@@ -65,3 +92,8 @@
         - hashicorp.terraform
         - golang.go
         - ms-azuretools.vscode-docker
+
+    - name: prepare repo folder
+      file:
+        path: /Users/{{ lookup('env', 'USER') }}/Documents/repo
+        state: directory
