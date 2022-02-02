@@ -1,0 +1,93 @@
+---
+- name: Mac setup
+  hosts: localhost
+
+  tasks:
+    - name: Install tools with brew
+      community.general.homebrew:
+        name: "{{ item }}"
+        state: latest
+        update_homebrew: yes
+      with_items:
+        - ansible
+        - curl
+        - gh
+        - golang
+        - htop
+        - kind
+        - kubernetes-cli
+        - kubernetes-helm
+        - python
+        - terraform
+        - unzip
+        - vim
+        - zsh
+
+    - name: Install tools with brew cask
+      community.general.homebrew_cask:
+        name: "{{ item }}"
+        state: present
+        update_homebrew: yes
+      with_items:
+        - adobe-acrobat-reader
+        - docker
+        - enpass
+        - firefox
+        - github
+        - google-chrome
+        - google-cloud-sdk
+        - google-drive
+        - microsoft-remote-desktop
+        - notion
+        - postman
+        - spotify
+        - telegram
+        - visual-studio-code
+        - whatsapp
+        - zwift
+
+    - name: check code file 
+      copy:
+        src: ./files/code
+        dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
+        owner: giacomofurlan
+        group: admin        
+        mode: 0755
+
+    - name: Check if .oh-my-zsh exists
+      stat:
+        path: /Users/{{ lookup('env', 'USER') }}/.oh-my-zsh
+      register: is_oh_my_zsh_present
+
+    - name: Cloning oh-my-zsh
+      git:
+        repo: https://github.com/ohmyzsh/ohmyzsh.git
+        dest: /Users/{{ lookup('env', 'USER') }}/.oh-my-zsh
+      when: not is_oh_my_zsh_present.stat.exists
+
+    - name: set zshrc
+      template:
+        src: ./files/zshrc
+        dest: /Users/{{ lookup('env', 'USER') }}/.zshrc
+        owner: "{{ lookup('env', 'USER') }}"
+        force: yes
+
+    - name: change user shell to zsh
+      become: true
+      user:
+        name: "{{ lookup('env', 'USER') }}"
+        shell: /usr/local/bin/zsh
+
+    - name: Install VSCode extensions
+      shell: code --install-extension {{ item }}
+      with_items:
+        - redhat.vscode-yaml
+        - whizkydee.material-palenight-theme
+        - hashicorp.terraform
+        - golang.go
+        - ms-azuretools.vscode-docker
+
+    - name: prepare repo folder
+      file:
+        path: /Users/{{ lookup('env', 'USER') }}/Documents/repo
+        state: directory
