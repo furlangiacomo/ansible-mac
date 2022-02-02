@@ -1,7 +1,6 @@
 ---
 - name: Mac setup
   hosts: localhost
-
   tasks:
     - name: Install tools with brew
       community.general.homebrew:
