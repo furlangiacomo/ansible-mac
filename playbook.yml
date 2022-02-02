@@ -17,6 +17,7 @@
         - kind
         - kubernetes-cli
         - kubernetes-helm
+        - python
         - terraform
         - unzip
         - vim
@@ -43,7 +44,24 @@
         - visual-studio-code
         - whatsapp
 
+    - name: check code file 
+      copy:
+        src: ./code
+        dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
+        owner: giacomofurlan
+        group: admin        
+        mode: 0755
+
     - name: Install oh-my-zsh
       command: sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
       args:
         creates: "/Users/{{ lookup('env', 'USER') }}/.oh-my-zsh"
+
+    - name: Install VSCode extensions
+      shell: code --install-extension {{ item }}
+      with_items:
+        - redhat.vscode-yaml
+        - whizkydee.material-palenight-theme
+        - hashicorp.terraform
+        - golang.go
+        - ms-azuretools.vscode-docker
