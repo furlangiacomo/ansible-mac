@@ -6,7 +6,7 @@
       community.general.homebrew:
         name: "{{ item }}"
         state: latest
-        update_homebrew: yes
+        update_homebrew: true
       with_items:
         - ansible
         - curl
@@ -26,7 +26,7 @@
       community.general.homebrew_cask:
         name: "{{ item }}"
         state: present
-        update_homebrew: yes
+        update_homebrew: true
       with_items:
         - adobe-acrobat-reader
         - docker
@@ -45,7 +45,7 @@
         - whatsapp
         - zwift
 
-    - name: check code file 
+    - name: check code file
       copy:
         src: ./files/code
         dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
@@ -66,7 +66,7 @@
         src: ./files/zshrc
         dest: /Users/{{ lookup('env', 'USER') }}/.zshrc
         owner: "{{ lookup('env', 'USER') }}"
-        force: yes
+        force: true
 
     - name: change user shell to zsh
       become: true
