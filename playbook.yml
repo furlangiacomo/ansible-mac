@@ -75,7 +75,7 @@
         shell: /usr/local/bin/zsh
 
     - name: Install VSCode extensions
-      shell: code --install-extension {{ item }}
+      command: code --install-extension {{ item }}
       with_items:
         - redhat.vscode-yaml
         - whizkydee.material-palenight-theme
