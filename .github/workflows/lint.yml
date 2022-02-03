@@ -11,5 +11,5 @@ jobs:
         uses: actions/checkout@master
       - name: Install linter
         run: pip3 install --user yamllint
-      - name: lint
+      - name: Lint
         run: yamllint -f colored -c .github/configurations/rules.yml playbook.yml
