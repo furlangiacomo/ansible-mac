@@ -37,6 +37,7 @@
         - google-cloud-sdk
         - google-drive
         - microsoft-remote-desktop
+        - microsoft-teams
         - notion
         - postman
         - spotify
