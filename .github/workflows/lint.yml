@@ -12,4 +12,4 @@ jobs:
       - name: Install linter
         run: pip3 install --user yamllint
       - name: lint
-        run: yamllint -f colored playbook.yml
+        run: yamllint -f colored -c .github/configurations/rules.yml playbook.yml
