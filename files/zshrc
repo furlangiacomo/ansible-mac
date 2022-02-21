@@ -33,16 +33,6 @@ kubectl2() {
     command kubectl "$@"
 }
 
-kexec(){
-        varECM=$(kubectl get --no-headers=true pods -o name | grep ecm-web | awk -F "/" '{print $2}')
-        kubectl exec -it $varECM bash -c hybris-ecm-web
-}
-
-klog(){
-        varECM=$(kubectl get --no-headers=true pods -o name | grep ecm-web | awk -F "/" '{print $2}')
-        kubectl logs -f $varECM -c hybris-ecm-web
-}
-
 PROMPT='%{$fg_bold[green]%}%c%{$fg_bold[red]%}$(parse_git_branch) %{$fg_bold[cyan]%}$(k8s_info)%{$reset_color%} '
 
 alias k='kubectl'
