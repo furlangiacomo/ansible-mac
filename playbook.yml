@@ -13,6 +13,7 @@
         - gh
         - golang
         - htop
+        - jq
         - kind
         - kubernetes-cli
         - kubernetes-helm
