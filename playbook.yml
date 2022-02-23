@@ -3,6 +3,7 @@
   hosts: localhost
   tasks:
     - name: Install tools with brew
+      become_user: root
       community.general.homebrew:
         name: "{{ item }}"
         state: latest
@@ -24,6 +25,7 @@
         - zsh
 
     - name: Install tools with brew cask
+      become_user: root
       community.general.homebrew_cask:
         name: "{{ item }}"
         state: present
