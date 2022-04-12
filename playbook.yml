@@ -11,6 +11,7 @@
       with_items:
         - ansible
         - curl
+        - dockutil
         - gh
         - golang
         - htop
@@ -33,6 +34,7 @@
       with_items:
         - adobe-acrobat-reader
         - docker
+        - discord
         - enpass
         - firefox
         - google-chrome
@@ -48,7 +50,7 @@
         - whatsapp
         - zwift
 
-    - name: check code file
+    - name: Check code file
       copy:
         src: ./files/code
         dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
@@ -64,14 +66,14 @@
         dest: /Users/{{ lookup('env', 'USER') }}/.oh-my-zsh
       when: not is_oh_my_zsh_present.stat.exists
 
-    - name: set zshrc
+    - name: Set zshrc
       template:
         src: ./files/zshrc
         dest: /Users/{{ lookup('env', 'USER') }}/.zshrc
         owner: "{{ lookup('env', 'USER') }}"
         force: true
 
-    - name: change user shell to zsh
+    - name: Change user shell to zsh
       become: true
       user:
         name: "{{ lookup('env', 'USER') }}"
@@ -86,7 +88,28 @@
         - golang.go
         - ms-azuretools.vscode-docker
 
-    - name: prepare repo folder
+    - name: Prepare repo folder
       file:
         path: /Users/{{ lookup('env', 'USER') }}/Documents/repo
         state: directory
+
+    - name: Removing default dock icons
+      command: dockutil --remove all
+
+    - name: Set new dock icons
+      command: dockutil --add {{ item }}
+      with_items:
+        - /Applications/Google\ Chrome.app
+        - /Applications/Firefox.app
+        - /Applications/Visual\ Studio\ Code.app
+        - /System/Applications/Utilities/Terminal.app
+        - /Applications/Postman.app
+        - /Applications/Microsoft\ Remote\ Desktop.app
+        - /Applications/Notion.app
+        - /Applications/Spotify.app
+        - /System/Applications/Mail.app
+        - /Applications/WhatsApp.app
+        - /Applications/Telegram.app
+        - /Applications/Discord.app
+      loop_control:
+        pause: 5
