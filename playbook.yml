@@ -50,7 +50,7 @@
         - whatsapp
         - zwift
 
-    - name: Csheck code file
+    - name: Check code file
       copy:
         src: ./files/code
         dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
