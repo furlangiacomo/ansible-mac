@@ -21,6 +21,7 @@
         - kubernetes-helm
         - python
         - terraform
+        - tfsec
         - unzip
         - vim
         - zsh
