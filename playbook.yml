@@ -19,11 +19,13 @@
         - kind
         - kubernetes-cli
         - kubernetes-helm
+        - pulumi
         - python
         - terraform
         - tfsec
         - unzip
         - vim
+        - watch
         - zsh
 
     - name: Install tools with brew cask
