@@ -19,6 +19,7 @@
         - kind
         - kubernetes-cli
         - kubernetes-helm
+        - node
         - pulumi
         - python
         - terraform
