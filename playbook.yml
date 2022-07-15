@@ -36,7 +36,6 @@
         state: present
         update_homebrew: true
       with_items:
-        - adobe-acrobat-reader
         - docker
         - discord
         - enpass
