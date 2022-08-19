@@ -19,6 +19,7 @@
         - kind
         - kubernetes-cli
         - kubernetes-helm
+        - mysql
         - node
         - pulumi
         - python
