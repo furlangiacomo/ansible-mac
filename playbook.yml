@@ -93,6 +93,8 @@
         - golang.go
         - ms-azuretools.vscode-docker
         - ms-python.python
+        - eliverlara.andromeda
+        - tal7aouy.icons
 
     - name: Prepare repo folder
       file:
