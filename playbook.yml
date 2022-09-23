@@ -21,6 +21,7 @@
         - kubernetes-helm
         - mysql
         - node
+        - packer
         - pulumi
         - python
         - terraform
@@ -55,6 +56,9 @@
         - visual-studio-code
         - whatsapp
         - zwift
+
+    - name: Install packer autocomplete
+      command: packer -autocomplete-install
 
     - name: Check code file
       copy:
@@ -91,6 +95,7 @@
         - redhat.vscode-yaml
         - whizkydee.material-palenight-theme
         - hashicorp.terraform
+        - 4ops.packer
         - golang.go
         - ms-azuretools.vscode-docker
         - ms-python.python
