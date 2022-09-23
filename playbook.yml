@@ -50,15 +50,13 @@
         - microsoft-teams
         - notion
         - postman
+        - slack
         - spotify
         - telegram
         - tunnelblick
         - visual-studio-code
         - whatsapp
         - zwift
-
-    - name: Install packer autocomplete
-      command: packer -autocomplete-install
 
     - name: Check code file
       copy:
@@ -125,5 +123,6 @@
         - /Applications/WhatsApp.app
         - /Applications/Telegram.app
         - /Applications/Discord.app
+        - /Applications/Slack.app
       loop_control:
         pause: 10
