@@ -1,67 +1,93 @@
 ---
-- name: Mac setup
+- name: setup
   hosts: localhost
   tasks:
-    - name: Install tools with brew
+    - name: Update homebrew
+      become_user: root
+      community.general.homebrew:
+        update_homebrew: true
+
+    - name: Install common tools with brew
       become_user: root
       community.general.homebrew:
         name: "{{ item }}"
         state: latest
-        update_homebrew: true
       with_items:
         - ansible
         - curl
-        - dockutil
         - gh
         - golang
         - htop
         - jq
         - kind
+        - kubectx
         - kubernetes-cli
         - kubernetes-helm
-        - mysql
+        - minikube
         - node
         - packer
         - pulumi
         - python
         - terraform
         - tfsec
+        - tree
         - unzip
         - vim
         - watch
+        - wget
+        - yq
         - zsh
 
-    - name: Install tools with brew cask
+    - name: Install common tools with brew cask
       become_user: root
       community.general.homebrew_cask:
         name: "{{ item }}"
         state: present
-        update_homebrew: true
       with_items:
         - docker
-        - discord
-        - enpass
-        - firefox
         - google-chrome
         - google-cloud-sdk
-        - google-drive
         - iterm2
         - microsoft-remote-desktop
-        - microsoft-teams
-        - notion
+        - obsidian
         - postman
-        - slack
         - spotify
-        - telegram
+        - tableplus
         - tunnelblick
         - visual-studio-code
+
+    - name: Install personal tools with brew cask
+      become_user: root
+      when: work == "false"
+      community.general.homebrew_cask:
+        name: "{{ item }}"
+        state: present
+      with_items:
+        - discord
+        - enpass
+        - google-drive
+        - microsoft-teams
+        - mimestream
+        - now-tv-player
+        - slack
+        - telegram
         - whatsapp
         - zwift
 
-    - name: Check code file
-      copy:
-        src: ./files/code
-        dest: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
+    - name: Install work tools with brew cask
+      become_user: root
+      when: work == "true"
+      community.general.homebrew_cask:
+        name: "{{ item }}"
+        state: present
+      with_items:
+        - keepassxc
+
+    - name: Change python to python3
+      replace:
+        path: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
+        regexp: 'python(3)?'
+        replace: 'python3'
 
     - name: Check if .oh-my-zsh exists
       stat:
@@ -87,18 +113,22 @@
         name: "{{ lookup('env', 'USER') }}"
         shell: /usr/local/bin/zsh
 
+    - name: Install VSCode themes
+      command: code --install-extension {{ item }}
+      with_items:
+        - whizkydee.material-palenight-theme
+        - eliverlara.andromeda
+        - tal7aouy.icons
+
     - name: Install VSCode extensions
       command: code --install-extension {{ item }}
       with_items:
         - redhat.vscode-yaml
-        - whizkydee.material-palenight-theme
         - hashicorp.terraform
         - 4ops.packer
         - golang.go
         - ms-azuretools.vscode-docker
         - ms-python.python
-        - eliverlara.andromeda
-        - tal7aouy.icons
 
     - name: Prepare repo folder
       file:
@@ -108,21 +138,35 @@
     - name: Removing default dock icons
       command: dockutil --remove all
 
-    - name: Set new dock icons
+    - name: Set personal dock icons
       command: dockutil --add {{ item }}
+      when: work == "false"
       with_items:
         - /Applications/Google\ Chrome.app
-        - /Applications/Firefox.app
         - /Applications/Visual\ Studio\ Code.app
-        - /System/Applications/Utilities/Terminal.app
+        - /Applications/iTerm.app
         - /Applications/Postman.app
         - /Applications/Microsoft\ Remote\ Desktop.app
-        - /Applications/Notion.app
+        - /Applications/Obsidian.app
         - /Applications/Spotify.app
-        - /System/Applications/Mail.app
+        - /Applications/Mimestream.app
         - /Applications/WhatsApp.app
         - /Applications/Telegram.app
-        - /Applications/Discord.app
-        - /Applications/Slack.app
+      loop_control:
+        pause: 10
+
+    - name: Set work dock icons
+      command: dockutil --add {{ item }}
+      when: work == "true"
+      with_items:
+        - /Applications/Google\ Chrome.app
+        - /Applications/Visual\ Studio\ Code.app
+        - /Applications/iTerm.app
+        - /Applications/Postman.app
+        - /Applications/Microsoft\ Remote\ Desktop.app
+        - /Applications/Obsidian.app
+        - /Applications/Spotify.app
+        - /Applications/KeePassXC.app
+        - /System/Applications/Mail.app
       loop_control:
         pause: 10

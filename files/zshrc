@@ -1,36 +1,35 @@
 export ZSH="$HOME/.oh-my-zsh"
-
 ZSH_THEME="robbyrussell"
-
 plugins=(git)
-
 source $ZSH/oh-my-zsh.sh
 
 parse_git_branch() {
      git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ [\1]/'
 }
 
-current_dir() {
-    echo $(pwd)
-}
-
 k8s_info() {
-        ns=$(kubectl config view --minify --output 'jsonpath={..namespace}')
-        if [ -z "$ns" ]
-                then
-                ns=$(kubectl config current-context)
-        fi
-        echo $ns@$(kubectl config current-context)
-}
+    ns=$(kubectl config view --minify --output 'jsonpath={..namespace}')
+    context=$(kubectl config current-context)
 
-kcontext() {
-    kubectl2 config use-context $1
-    kubectl2 config set-context --current --namespace=$2
+    if [[ $context =~ gke ]]; then
+        context=$(echo $context | cut -d'_' -f4)
+    fi
+
+    if [ -z "$ns" ]
+            then
+            ns=$context
+    fi
+    echo $ns@$context
 }
 
 kubectl2() {
     echo -e  "\e[101m+ kubectl $@ \e[0m" >&2
     command kubectl "$@"
+}
+
+kcontext() {
+    kubectl2 config use-context $1
+    kubectl2 config set-context --current --namespace=$2
 }
 
 lazygit() {
@@ -43,6 +42,6 @@ PROMPT='%{$fg_bold[green]%}%c%{$fg_bold[red]%}$(parse_git_branch) %{$fg_bold[cya
 
 alias k='kubectl'
 alias repo='cd $HOME/Documents/repo'
+alias docs='cd $HOME/Documents'
 alias gp='lazygit'
-alias mysqlstart='/usr/local/bin/mysql.server start'
-alias mysqlstop='/usr/local/bin/mysql.server stop'
+#alias command='kcontext context namespace'
