@@ -3,10 +3,12 @@
   hosts: localhost
   tasks:
     - name: Update homebrew
+      become_user: root
       community.general.homebrew:
         update_homebrew: true
 
     - name: Install common tools with brew
+      become_user: root
       community.general.homebrew:
         name: "{{ item }}"
         state: latest
@@ -37,6 +39,7 @@
         - zsh
 
     - name: Install common tools with brew cask
+      become_user: root
       community.general.homebrew_cask:
         name: "{{ item }}"
         state: present
@@ -54,6 +57,7 @@
         - visual-studio-code
 
     - name: Install personal tools with brew cask
+      become_user: root
       when: work == "false"
       community.general.homebrew_cask:
         name: "{{ item }}"
@@ -68,6 +72,7 @@
         - zwift
 
     - name: Install work tools with brew cask
+      become_user: root
       when: work == "true"
       community.general.homebrew_cask:
         name: "{{ item }}"
@@ -101,6 +106,7 @@
         force: true
 
     - name: Change user shell to zsh
+      become: true
       user:
         name: "{{ lookup('env', 'USER') }}"
         shell: /usr/local/bin/zsh

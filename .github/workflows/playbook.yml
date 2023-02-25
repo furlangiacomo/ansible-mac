@@ -10,10 +10,6 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
-
-    - name: Check ansible
-      continue-on-error: true
-      run: which ansible
       
     - name: Run playbook
       run: cd bin && ./bootstrap
