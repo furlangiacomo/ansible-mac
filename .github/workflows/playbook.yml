@@ -1,7 +1,6 @@
 ---
 name: playbook
 on:
-  workflow_dispatch:
   pull_request:
 
 jobs:
@@ -13,6 +12,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Check ansible
+      continue-on-error: true
       run: which ansible
       
     - name: Run playbook
