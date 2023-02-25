@@ -8,9 +8,14 @@ parse_git_branch() {
 }
 
 k8s_info() {
-    ns=$(kubectl config view --minify --output 'jsonpath={..namespace}')
-    context=$(kubectl config current-context)
+    ns=$(kubectl config view --minify --output 'jsonpath={..namespace}' 2> /dev/null)
+    context=$(kubectl config current-context 2> /dev/null)
 
+    if [[ -z $context && -z $ns ]]; then
+        ns="ns"
+        context="context"
+    fi
+    
     if [[ $context =~ gke ]]; then
         context=$(echo $context | cut -d'_' -f4)
     fi
