@@ -17,12 +17,12 @@
         - curl
         - gh
         - golang
+        - helm
         - htop
         - jq
         - kind
         - kubectx
         - kubernetes-cli
-        - kubernetes-helm
         - minikube
         - node
         - packer
@@ -49,7 +49,7 @@
         - google-cloud-sdk
         - iterm2
         - microsoft-remote-desktop
-        - obsidian
+        - notion
         - postman
         - spotify
         - tableplus
@@ -63,13 +63,10 @@
         name: "{{ item }}"
         state: present
       with_items:
-        - discord
         - enpass
         - google-drive
-        - microsoft-teams
         - mimestream
         - now-tv-player
-        - slack
         - telegram
         - whatsapp
         - zwift
@@ -81,6 +78,7 @@
         name: "{{ item }}"
         state: present
       with_items:
+        - discord
         - keepassxc
 
     - name: Change python to python3
@@ -147,7 +145,7 @@
         - /Applications/iTerm.app
         - /Applications/Postman.app
         - /Applications/Microsoft\ Remote\ Desktop.app
-        - /Applications/Obsidian.app
+        - /Applications/Notion.app
         - /Applications/Spotify.app
         - /Applications/Mimestream.app
         - /Applications/WhatsApp.app
@@ -164,7 +162,7 @@
         - /Applications/iTerm.app
         - /Applications/Postman.app
         - /Applications/Microsoft\ Remote\ Desktop.app
-        - /Applications/Obsidian.app
+        - /Applications/Notion.app
         - /Applications/Spotify.app
         - /Applications/KeePassXC.app
         - /System/Applications/Mail.app
