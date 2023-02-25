@@ -11,6 +11,9 @@ jobs:
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
+
+    - name: Check ansible
+      run: which ansible
       
     - name: Run playbook
-      run: cd bin && sudo ./bootstrap
+      run: cd bin && ./bootstrap
