@@ -2,6 +2,26 @@
 - name: setup
   hosts: localhost
   tasks:
+
+    - name: Remove file
+      file:
+        path: /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg
+        state: absent
+
+    - name: Download dockutil
+      get_url:
+        url: https://github.com/kcrawford/dockutil/releases/download/3.0.2/dockutil-3.0.2.pkg
+        dest: /Users/{{ lookup('env', 'USER') }}
+
+    - name: Install package
+      become_user: root
+      shell: sudo /usr/sbin/installer -pkg /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg -target /
+
+    - name: Remove file
+      file:
+        path: /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg
+        state: absent
+
     - name: Update homebrew
       become_user: root
       community.general.homebrew:

@@ -9,12 +9,8 @@
 - Configures ZSH shell with Oh My Zsh
 - Configure dock
 
-## Requirements
-
-- [Dockutil](https://github.com/kcrawford/dockutil/releases/tag/3.0.2)
-
 ## Usage
 
 clone the repository, and run:
 
-`cd bin && ./bootstrap`
+`./bootstrap`

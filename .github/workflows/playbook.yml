@@ -1,0 +1,14 @@
+---
+name: playbook
+on:
+  pull_request:
+    branches:
+      - main
+jobs:
+  ansible:
+    runs-on: macos-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+    - name: Run playbook
+      run: ./bootstrap.sh
