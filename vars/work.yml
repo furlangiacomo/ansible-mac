@@ -28,9 +28,34 @@ brew:
 
 cask: 
   - discord
+  - docker
+  - google-chrome
+  - google-cloud-sdk
+  - iterm2
   - keepassxc
+  - microsoft-remote-desktop
+  - mimestream
+  - notion
+  - postman
+  - spotify
+  - tableplus
+  - telegram
+  - tunnelblick
+  - visual-studio-code
+  - whatsapp
 
-vscodeThemes: []
+vscodeThemes:
+  - whizkydee.material-palenight-theme
+  - eliverlara.andromeda
+  - tal7aouy.icons
+
+vscodeExtenstions:
+  - redhat.vscode-yaml
+  - hashicorp.terraform
+  - 4ops.packer
+  - golang.go
+  - ms-azuretools.vscode-docker
+  - ms-python.python
 
 dock: 
   - /Applications/Google\ Chrome.app

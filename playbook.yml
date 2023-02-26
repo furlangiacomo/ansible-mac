@@ -2,9 +2,6 @@
 - name: setup
   hosts: localhost
 
-  vars_files:
-    - vars/default.yml
-
   tasks:
     - name: Remove file
       file:
