@@ -90,7 +90,6 @@
 
     - name: Set personal dock icons
       command: dockutil --add {{ item }}
-      when: work == "false"
       loop: "{{ dock }}"
       loop_control:
         pause: 10
