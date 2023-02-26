@@ -1,8 +1,11 @@
 ---
 - name: setup
   hosts: localhost
-  tasks:
 
+  vars_files:
+    - vars/default.yml
+
+  tasks:
     - name: Remove file
       file:
         path: /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg
@@ -14,8 +17,8 @@
         dest: /Users/{{ lookup('env', 'USER') }}
 
     - name: Install package
-      become_user: root
-      shell: sudo /usr/sbin/installer -pkg /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg -target /
+      become: true
+      shell: /usr/sbin/installer -pkg /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg -target /
 
     - name: Remove file
       file:
@@ -27,79 +30,19 @@
       community.general.homebrew:
         update_homebrew: true
 
-    - name: Install common tools with brew
+    - name: Install tools with brew
       become_user: root
       community.general.homebrew:
         name: "{{ item }}"
         state: latest
-      with_items:
-        - ansible
-        - curl
-        - gh
-        - golang
-        - helm
-        - htop
-        - jq
-        - kind
-        - kubectx
-        - kubernetes-cli
-        - minikube
-        - node
-        - packer
-        - pulumi
-        - python
-        - terraform
-        - tfsec
-        - tree
-        - unzip
-        - vim
-        - watch
-        - wget
-        - yq
-        - zsh
+      loop: "{{ brew }}"
 
-    - name: Install common tools with brew cask
+    - name: Install tools with brew cask
       become_user: root
       community.general.homebrew_cask:
         name: "{{ item }}"
         state: present
-      with_items:
-        - docker
-        - google-chrome
-        - google-cloud-sdk
-        - iterm2
-        - microsoft-remote-desktop
-        - notion
-        - postman
-        - spotify
-        - tableplus
-        - tunnelblick
-        - visual-studio-code
-
-    - name: Install personal tools with brew cask
-      become_user: root
-      when: work == "false"
-      community.general.homebrew_cask:
-        name: "{{ item }}"
-        state: present
-      with_items:
-        - enpass
-        - google-drive
-        - mimestream
-        - now-tv-player
-        - telegram
-        - whatsapp
-        - zwift
-
-    - name: Install work tools with brew cask
-      become_user: root
-      when: work == "true"
-      community.general.homebrew_cask:
-        name: "{{ item }}"
-        state: present
-      with_items:
-        - discord
-        - keepassxc
+      loop: "{{ cask }}"
 
     - name: Change python to python3
       replace:
@@ -133,20 +76,12 @@
 
     - name: Install VSCode themes
       command: code --install-extension {{ item }}
-      with_items:
-        - whizkydee.material-palenight-theme
-        - eliverlara.andromeda
-        - tal7aouy.icons
+      loop: "{{ vscodeThemes }}"
+
 
     - name: Install VSCode extensions
       command: code --install-extension {{ item }}
-      with_items:
-        - redhat.vscode-yaml
-        - hashicorp.terraform
-        - 4ops.packer
-        - golang.go
-        - ms-azuretools.vscode-docker
-        - ms-python.python
+      loop: "{{ vscodeExtenstions }}"
 
     - name: Prepare repo folder
       file:
@@ -159,32 +94,6 @@
     - name: Set personal dock icons
       command: dockutil --add {{ item }}
       when: work == "false"
-      with_items:
-        - /Applications/Google\ Chrome.app
-        - /Applications/Visual\ Studio\ Code.app
-        - /Applications/iTerm.app
-        - /Applications/Postman.app
-        - /Applications/Microsoft\ Remote\ Desktop.app
-        - /Applications/Notion.app
-        - /Applications/Spotify.app
-        - /Applications/Mimestream.app
-        - /Applications/WhatsApp.app
-        - /Applications/Telegram.app
-      loop_control:
-        pause: 10
-
-    - name: Set work dock icons
-      command: dockutil --add {{ item }}
-      when: work == "true"
-      with_items:
-        - /Applications/Google\ Chrome.app
-        - /Applications/Visual\ Studio\ Code.app
-        - /Applications/iTerm.app
-        - /Applications/Postman.app
-        - /Applications/Microsoft\ Remote\ Desktop.app
-        - /Applications/Notion.app
-        - /Applications/Spotify.app
-        - /Applications/KeePassXC.app
-        - /System/Applications/Mail.app
+      loop: "{{ dock }}"
       loop_control:
         pause: 10

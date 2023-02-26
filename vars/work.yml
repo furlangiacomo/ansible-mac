@@ -1,0 +1,44 @@
+---
+brew:
+  - ansible
+  - curl
+  - gh
+  - golang
+  - helm
+  - htop
+  - jq
+  - kind
+  - kubectx
+  - kubernetes-cli
+  - minikube
+  - node
+  - packer
+  - pulumi
+  - python
+  - terraform
+  - tflint
+  - tfsec
+  - tree
+  - unzip
+  - vim
+  - watch
+  - wget
+  - yq
+  - zsh
+
+cask: 
+  - discord
+  - keepassxc
+
+vscodeThemes: []
+
+dock: 
+  - /Applications/Google\ Chrome.app
+  - /Applications/Visual\ Studio\ Code.app
+  - /Applications/iTerm.app
+  - /Applications/Postman.app
+  - /Applications/Microsoft\ Remote\ Desktop.app
+  - /Applications/Notion.app
+  - /Applications/Spotify.app
+  - /Applications/KeePassXC.app
+  - /System/Applications/Mail.app

@@ -9,4 +9,4 @@ if ! which ansible > /dev/null; then
     ansible-galaxy collection install community.general
 fi
 
-ansible-playbook playbook.yml -e work=false
+ansible-playbook playbook.yml -e work=false --ask-become-pass
