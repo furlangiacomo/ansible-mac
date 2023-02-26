@@ -1,0 +1,72 @@
+---
+brew:
+  - ansible
+  - curl
+  - gh
+  - golang
+  - helm
+  - htop
+  - jq
+  - kind
+  - kubectx
+  - kubernetes-cli
+  - minikube
+  - node
+  - packer
+  - pulumi
+  - python
+  - terraform
+  - tflint
+  - tfsec
+  - tree
+  - unzip
+  - vim
+  - watch
+  - wget
+  - yq
+  - zsh
+
+cask:
+  - docker
+  - enpass
+  - google-chrome
+  - google-cloud-sdk
+  - google-drive
+  - iterm2
+  - microsoft-remote-desktop
+  - mimestream
+  - notion
+  - now-tv-player
+  - postman
+  - spotify
+  - tableplus
+  - telegram
+  - tunnelblick
+  - visual-studio-code
+  - whatsapp
+  - zwift
+
+vscodeThemes:
+  - whizkydee.material-palenight-theme
+  - eliverlara.andromeda
+  - tal7aouy.icons
+
+vscodeExtenstions:
+  - redhat.vscode-yaml
+  - hashicorp.terraform
+  - 4ops.packer
+  - golang.go
+  - ms-azuretools.vscode-docker
+  - ms-python.python
+
+dock:
+  - /Applications/Google\ Chrome.app
+  - /Applications/Visual\ Studio\ Code.app
+  - /Applications/iTerm.app
+  - /Applications/Postman.app
+  - /Applications/Microsoft\ Remote\ Desktop.app
+  - /Applications/Notion.app
+  - /Applications/Spotify.app
+  - /Applications/Mimestream.app
+  - /Applications/WhatsApp.app
+  - /Applications/Telegram.app

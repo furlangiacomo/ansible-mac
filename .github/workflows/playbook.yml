@@ -6,9 +6,14 @@ on:
       - main
 jobs:
   ansible:
+    strategy:
+      matrix:
+        vars:
+          - default
+          - work
     runs-on: macos-latest
     steps:
     - name: Checkout repository
       uses: actions/checkout@v2
     - name: Run playbook
-      run: ./bootstrap.sh
+      run: make run-${{ matrix.vars }}-ci
