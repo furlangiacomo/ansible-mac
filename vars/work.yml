@@ -19,6 +19,7 @@ brew:
   - tflint
   - tfsec
   - tree
+  - trivy
   - unzip
   - vim
   - watch
