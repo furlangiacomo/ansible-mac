@@ -36,12 +36,12 @@
         state: latest
       loop: "{{ brew }}"
 
-    - name: Install tools with brew cask
-      become_user: root
-      community.general.homebrew_cask:
-        name: "{{ item }}"
-        state: present
-      loop: "{{ cask }}"
+    #- name: Install tools with brew cask
+    #  become_user: root
+    #  community.general.homebrew_cask:
+    #    name: "{{ item }}"
+    #    state: present
+    #  loop: "{{ cask }}"
 
     - name: Change python to python3
       replace:
