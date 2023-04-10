@@ -48,7 +48,7 @@
       register: folder_check
 
     - name: Download postgres
-      when: 
+      when:
         - not folder_check.stat.exists
         - postgresAppVersion is defined
         - postgresVersion is defined
@@ -57,7 +57,7 @@
         dest: /Users/{{ lookup('env', 'USER') }}
 
     - name: Install postgres
-      when: 
+      when:
         - not folder_check.stat.exists
         - postgresAppVersion is defined
         - postgresVersion is defined
@@ -68,7 +68,7 @@
         hdiutil unmount /Volumes/Postgres-{{ postgresAppVersion }}-{{ postgresVersion }}
 
     - name: Remove file
-      when: 
+      when:
         - not folder_check.stat.exists
         - postgresAppVersion is defined
         - postgresVersion is defined
