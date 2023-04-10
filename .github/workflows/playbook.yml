@@ -1,9 +1,5 @@
 ---
 name: playbook
-on:
-  pull_request:
-    branches:
-      - main
 jobs:
   ansible:
     strategy:
