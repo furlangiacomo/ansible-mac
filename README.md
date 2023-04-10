@@ -16,4 +16,4 @@
 
 - move into repository: `cd ansible-mac`
 
-- if you don't need to change anything in the vars files you can run `make run-default-local` or `run-work-local` depending in which mac you are running it.
+- if you don't need to change anything in the vars files you can run `make default` or `make work` depending in which mac you are running it.

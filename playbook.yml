@@ -1,6 +1,7 @@
 ---
 - name: setup
   hosts: localhost
+  vars: {}
 
   tasks:
     - name: Remove file
@@ -41,6 +42,40 @@
         state: present
       loop: "{{ cask }}"
 
+    - name: Check if postgres exists
+      stat:
+        path: /Applications/Postgres.app
+      register: folder_check
+
+    - name: Download postgres
+      when:
+        - not folder_check.stat.exists
+        - postgresAppVersion is defined
+        - postgresVersion is defined
+      get_url:
+        url: https://github.com/PostgresApp/PostgresApp/releases/download/v{{ postgresAppVersion }}/Postgres-{{ postgresAppVersion }}-{{ postgresVersion }}.dmg
+        dest: /Users/{{ lookup('env', 'USER') }}
+
+    - name: Install postgres
+      when:
+        - not folder_check.stat.exists
+        - postgresAppVersion is defined
+        - postgresVersion is defined
+      become: true
+      shell: |
+        hdiutil mount /Users/{{ lookup('env', 'USER') }}/Postgres-{{ postgresAppVersion }}-{{ postgresVersion }}.dmg
+        cp -R /Volumes/Postgres-{{ postgresAppVersion }}-{{ postgresVersion }}/Postgres.app /Applications
+        hdiutil unmount /Volumes/Postgres-{{ postgresAppVersion }}-{{ postgresVersion }}
+
+    - name: Remove file
+      when:
+        - not folder_check.stat.exists
+        - postgresAppVersion is defined
+        - postgresVersion is defined
+      file:
+        path: /Users/{{ lookup('env', 'USER') }}/Postgres-{{ postgresAppVersion }}-{{ postgresVersion }}.dmg
+        state: absent
+
     - name: Change python to python3
       replace:
         path: /Applications/Visual Studio Code.app/Contents/Resources/app/bin/code
@@ -74,7 +109,6 @@
     - name: Install VSCode themes
       command: code --install-extension {{ item }}
       loop: "{{ vscodeThemes }}"
-
 
     - name: Install VSCode extensions
       command: code --install-extension {{ item }}

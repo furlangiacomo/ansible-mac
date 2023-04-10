@@ -11,10 +11,12 @@ brew:
   - kubectx
   - kubernetes-cli
   - minikube
-  - node
+  - node@18
   - packer
+  - postgresql@14
   - pulumi
   - python
+  - skaffold
   - terraform
   - tflint
   - tfsec
@@ -24,6 +26,7 @@ brew:
   - vim
   - watch
   - wget
+  - yarn
   - yq
   - zsh
 
@@ -34,6 +37,7 @@ cask:
   - google-cloud-sdk
   - google-drive
   - iterm2
+  - meld
   - microsoft-remote-desktop
   - mimestream
   - notion
@@ -71,3 +75,6 @@ dock:
   - /Applications/Mimestream.app
   - /Applications/WhatsApp.app
   - /Applications/Telegram.app
+
+postgresVersion: 14
+postgresAppVersion: 2.6.1

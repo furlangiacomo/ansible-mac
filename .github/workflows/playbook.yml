@@ -1,9 +1,5 @@
 ---
 name: playbook
-on:
-  pull_request:
-    branches:
-      - main
 jobs:
   ansible:
     strategy:
@@ -13,9 +9,7 @@ jobs:
           - work
     runs-on: macos-latest
     steps:
-      - name: python
-        run: which python3
-    #- name: Checkout repository
-    #  uses: actions/checkout@v2
-    #- name: Run playbook
-    #  run: make run-${{ matrix.vars }}-ci
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: Run playbook
+        run: make run-${{ matrix.vars }}-ci

@@ -9,22 +9,22 @@ check-ansible:
 		ansible-galaxy collection install community.general; \
 	fi
 
-run-default-local:
+default:
 	$(MAKE) check-brew
 	$(MAKE) check-ansible
 	ansible-playbook playbook.yml -e @vars/default.yml --ask-become-pass
 
-run-work-local:
+work:
 	$(MAKE) check-brew
 	$(MAKE) check-ansible
 	ansible-playbook playbook.yml -e @vars/work.yml --ask-become-pass
 
-run-default-ci:
+default-ci:
 	$(MAKE) check-brew
 	$(MAKE) check-ansible
 	ansible-playbook -e @vars/default.yml playbook.yml
 
-run-work-ci:
+work-ci:
 	$(MAKE) check-brew
 	$(MAKE) check-ansible
 	ansible-playbook -e @vars/work.yml playbook.yml
