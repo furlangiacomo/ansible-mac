@@ -2,7 +2,6 @@
 - name: setup
   hosts: localhost
   vars: {}
-    #ansible_python_interpreter: /usr/local/bin/python3
 
   tasks:
     - name: Remove file
@@ -36,12 +35,12 @@
         state: latest
       loop: "{{ brew }}"
 
-    #- name: Install tools with brew cask
-    #  become_user: root
-    #  community.general.homebrew_cask:
-    #    name: "{{ item }}"
-    #    state: present
-    #  loop: "{{ cask }}"
+    - name: Install tools with brew cask
+      become_user: root
+      community.general.homebrew_cask:
+        name: "{{ item }}"
+        state: present
+      loop: "{{ cask }}"
 
     - name: Check if postgres exists
       stat:

@@ -29,7 +29,8 @@ brew:
   - yarn
   - yq
   - zsh
-#cask:
+
+cask:
   - docker
   - enpass
   - google-chrome
