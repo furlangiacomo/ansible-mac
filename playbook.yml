@@ -4,21 +4,31 @@
   vars: {}
 
   tasks:
-    - name: Remove file
-      file:
+    - name: Check dockutil file exists
+      stat:
         path: /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg
-        state: absent
+      register: dockutil_file_check
+    
+    - name: Check dockutil installation
+      stat:
+        path: /usr/local/bin/dockutil
+      register: dockutil_folder_check
 
     - name: Download dockutil
+      when: 
+        - not dockutil_file_check.stat.exists
+        - not dockutil_folder_check.stat.exists
       get_url:
         url: https://github.com/kcrawford/dockutil/releases/download/3.0.2/dockutil-3.0.2.pkg
         dest: /Users/{{ lookup('env', 'USER') }}
 
     - name: Install package
+      when: not dockutil_folder_check.stat.exists
       become: true
       shell: /usr/sbin/installer -pkg /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg -target /
 
     - name: Remove file
+      when: dockutil_folder_check.stat.exists
       file:
         path: /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg
         state: absent
