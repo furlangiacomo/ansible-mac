@@ -8,14 +8,14 @@
       stat:
         path: /Users/{{ lookup('env', 'USER') }}/dockutil-3.0.2.pkg
       register: dockutil_file_check
-    
+
     - name: Check dockutil installation
       stat:
         path: /usr/local/bin/dockutil
       register: dockutil_folder_check
 
     - name: Download dockutil
-      when: 
+      when:
         - not dockutil_file_check.stat.exists
         - not dockutil_folder_check.stat.exists
       get_url:
